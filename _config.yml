@@ -10,10 +10,10 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:           The San Franciscan
+title:           A San Franciscan
 tagline:          'Un poquito de todo'
 description:      'Un poquito de todo'
-url:              http://sanfranciscan.org
+url:              http://chema.sanfranciscan.org
 baseurl:          /
 
 author:
@@ -26,4 +26,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/elsanfranciscano.github.io
+  repo:           https://github.com/chema.github.io
