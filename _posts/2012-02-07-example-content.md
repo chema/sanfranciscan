@@ -76,7 +76,8 @@ Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at
   <dt>HyperText Markup Language (HTML)</dt>
   <dd>The language used to describe and define the content of a Web page</dd>
 
-  <dt>Cascading Style Sheets (CSS)</dt>
+  <
+t>Cascading Style Sheets (CSS)</dt>
   <dd>Used to describe the appearance of Web content</dd>
 
   <dt>JavaScript (JS)</dt>
