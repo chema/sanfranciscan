@@ -1,6 +1,6 @@
 ---
 layout: post
-post: Dielecte
+post: Dialecte
 ---
 
 Le lundi passé, Jon Stewart, l'animateur de l'émission amé:ricaine satirique *The Daily Show*, a interviewé l'ancien président mexicain Vicente Fox. Pendant cet entretien, Stewart évoqua certains présidents sud-américains, en particulier Evo Morales, le président de la Bolivie, et demanda à Fox s'il croyait que Morales parlait l'anglais. Fox répondit:
