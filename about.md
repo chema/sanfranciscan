@@ -4,8 +4,8 @@ title: About
 ---
 Sometime engineer, media activist and now organizer.
 
-Del Bajío to SF via the Athens of the South et l'Arc lémanique and crossing paths with San Francesco's cities.
+Crossing paths with San Francesco's cities del Bajío to the Bay with detours at the Athens of the South et l'Arc lémanique.
 
-Follow at [@elsanfranciscan](https://twitter.com/elsanfranciscan). 
+Follow [@elsanfranciscan](https://twitter.com/elsanfranciscan) for opinions. 
 
-Learn more [github/chema](https://github.com/chema).
+More technical details at [github/chema](https://github.com/chema).
