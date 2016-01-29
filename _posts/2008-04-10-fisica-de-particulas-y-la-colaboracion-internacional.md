@@ -4,7 +4,7 @@ post: Física de partículas y la colaboración internacional
 ---
 
 <div class="message">
-Publicado en La Jornada en Ciencias
+<em>Publicado en La Jornada en Ciencias en mayo de 2008.</em>
 </div>
 
 Entre la cordillera del Jura y la ciudad de Ginebra, extendiéndose por ambos lados de la frontera suiza-francesa, se encuentra la Organización Europea para la Investigación Nuclear, uno de los centros de investigación científica más importantes del mundo. Por más de cincuenta años, el CERN[^1], como se le conoce, ha mantenido la vanguardia de la investigación de la física de partículas, estudiando la estructura e historia del universo a través de sus constituyentes más fundamentales. Sus aportaciones científicas ya han revolucionado el conocimiento colectivo de la humanidad, y a pesar de su propósito altamente especializado, su impacto sobre la vida cotidiana de millones de personas ya es considerable. Fue ahí donde, en 1990, Tim Berners-Lee y Robert Cailliau inventaron la WWW o web, confirmando su puesto como un centro de desarrollo tecnológico.
@@ -15,6 +15,6 @@ Como todo proyecto científico de este calibre, el LHC se usará para varios exp
 
 La participación de instituciones mexicanas en este tipo de proyectos puede ser difícil. No siempre se puede contar con apoyo público en México equivalente al que tienen instituciones en otros países, un factor que puede motivar a individuos mexicanos a buscar apoyo más adecuado en instituciones extranjeras. Pero a pesar de todos estos retos, y en este caso, de los altos costos de vida en Ginebra, la gran motivación de los participantes mexicanos es lo que garantiza el éxito de estas colaboraciones. La cooperación internacional es de suma importancia para el avance científico, y la presencia mexicana en este tipo de proyectos es crítica para que se fomente la ciencia y tecnología a nivel nacional.
 
-[^1] CERN es la antigua abreviación en francés, cuando se llamaba el Consejo Europeo para la Investigación Nuclear.
-[^2] De su nombre en inglés, Large Hadron Collider.
-[^3] A Large Ion Collider Experiment, Experimento de Gran Colisionador de Iones
+[^1]: CERN es la antigua abreviación en francés, cuando se llamaba el Consejo Europeo para la Investigación Nuclear.
+[^2]: De su nombre en inglés, Large Hadron Collider.
+[^3]: A Large Ion Collider Experiment, Experimento de Gran Colisionador de Iones

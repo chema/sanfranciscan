@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Chema
+title: About
 ---
 Sometime engineer, media activist and now organizer.
 

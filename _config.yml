@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         redcarpet
-extensions:       ["footnotes", "superscript"]	
+redcarpet:
+  extensions:     ["footnotes", "superscript"]	
 
 highlighter:      pygments
 gems:
