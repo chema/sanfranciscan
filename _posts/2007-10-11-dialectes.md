@@ -15,6 +15,6 @@ La situation en Bolivie même aujourd'hui avec Morales est comparable à la mexi
 
 Le sujet des langues mexicaines indigènes a toujours été particulièrement contentieux. Actuellement moins d'un dixième des mexicaines parlent un langue indigène grace a une politique active d'hispanisation menée depuis 1820. L'espagnol n'avais besoin de devenir une langue officielle de jure parce que c'était la seule langue parlé au Mexique. Toutes les autres méthodes de communication n'étaient que des dialectes.
 
-Le mot *dialect* a éventuellement pris une connotation pour les indigènes semblable à celle de "nigger" pour les noirs aux États-Unis. On ne parlait aucune langue, mais seulement un "dialecte". Un dialecte de quoi, personne savait. C'était un politique de déshumanisation. Des millions de personnes et familles, entre elles ma propre famille, ont préféré abandonner leur *dialecte* pour pouvoir finalement apprendre une vraie *langue*.
+Le mot *dialect* a éventuellement pris une connotation pour les indigènes semblable à celle de *nigger* pour les noirs aux États-Unis. On ne parlait aucune langue, mais seulement un *dialecte*. Un dialecte de quoi, personne savait. C'était un politique de déshumanisation. Des millions de personnes et familles, entre elles ma propre famille, ont préféré abandonner leur *dialecte* pour pouvoir finalement apprendre une vraie *langue*.
 
 L'utilisation du mot *dialecte* par Fox était donc fortement chargé par cette même vision tordue et raciste. Il me semble que rien ne change jamais.
