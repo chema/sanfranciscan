@@ -1,6 +1,7 @@
 ---
 layout: post
 post: Física de partículas y la colaboración internacional
+title: Física de partículas y la colaboración internacional
 ---
 
 <div class="message">
