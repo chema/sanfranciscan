@@ -30,3 +30,8 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/chema.github.io
+
+piwik:
+  base_url: piwik.sanfranciscan.org
+  site_id: 1
+
