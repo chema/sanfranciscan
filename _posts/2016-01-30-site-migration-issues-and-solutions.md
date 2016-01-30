@@ -10,19 +10,19 @@ Here are some issues I've run into during this migration and the solutions I've 
 
 ### Dates and titles
 
-The built-in filter converts dates to strings that use English month names, e.g. 29 Jan 2016. Given that at least some of the content on this site is not in English, I decide to modify the code to make use of the more international [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) date format using these [helpful directions](http://alanwsmith.com/jekyll-liquid-date-formatting-examples).
+The built-in filter converts dates to strings that using English month names, e.g. 29 Jan 2016. Given that some of the content on this site is not in English, I modified the code to make use of the more international [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) date format using these [helpful directions](http://alanwsmith.com/jekyll-liquid-date-formatting-examples).
 
 {% highlight ruby %}{% raw %}
-  {{ page.date | date: "%Y-%m-%d" }}
-  ...
-  {{ post.date | date: "%Y-%m-%d" }}
+{{ page.date | date: "%Y-%m-%d" }}
+...
+{{ post.date | date: "%Y-%m-%d" }}
 {% endraw %}{% endhighlight %}
 
-Similarly, how YAML front matter variables are filtered was important since it changed the word case and stripped accented letters. I therefore need to add no only `post` variables, but also `title` variables where necessary.
+Similarly, how YAML front matter variables are filtered was important since it changed the word case and stripped accented letters. I therefore need to add not only `post` variables, but also `title` variables where necessary.
 
 ### Fonts
 
-I decide to use the Lato font family instead of the one used by the [Hyde](http://apod.nasa.gov/apod/ap100721.html) theme, PT Sans. That required including the CSS includes in the header and removing the older fonts to speed up loading performance. Another advantage is that Lato goes better with the vintage 1920s Art Deco logo in my opinion.
+I decide to use the Lato font family instead of the one used by the [Hyde](http://apod.nasa.gov/apod/ap100721.html) theme, PT Sans. That required including the appropriate CSS includes in the header and removing the older fonts to speed up performance. Another advantage is that Lato goes better with the vintage 1920s Art Deco logo in my opinion.
 
 ### Analytics
 
