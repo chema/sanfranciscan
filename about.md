@@ -9,3 +9,6 @@ Crossing paths with San Francesco's cities—del Bajío to the Bay—with detour
 Follow [@elsanfranciscan](https://twitter.com/elsanfranciscan) for 140-character opinions. 
 
 For a more technical perspective, visit [github/chema](https://github.com/chema).
+
+Key fingerprint: [DD5E BE97 4DE5 8254 D89E  E663 6DC9 5D8C CDCF 67AE](https://pgp.mit.edu/pks/lookup?op=vindex&fingerprint=on&search=0x6DC95D8CCDCF67AE)
+
