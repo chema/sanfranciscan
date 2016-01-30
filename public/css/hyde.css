@@ -58,7 +58,7 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #000000;
-  background-image: url("/public/sun.jpg");
+  background-image: url("/public/assets/sun.jpg");
   background-repeat:no-repeat;
 }
 @media (min-width: 48em) {
