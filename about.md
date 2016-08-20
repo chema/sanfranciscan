@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-Sometime engineer, media activist and now organizer.
+Sometime engineer, media activist and agitator/organizer. Currently helping build the power of San Francisco's working-class communities of color as political coordinator at [San Francisco Rising Alliance](http://www.sfrising.org/).
 
 Crossing paths with San Francesco's cities—del Bajío to the Bay—with detours at the Athens of the South et l'Arc lémanique.
 
