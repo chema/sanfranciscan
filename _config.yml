@@ -3,7 +3,7 @@ markdown:         redcarpet
 redcarpet:
   extensions:     ["footnotes", "superscript"]	
 
-highlighter:      pygments
+highlighter:      rouge
 gems:
 - jekyll-gist
 - jekyll-paginate
