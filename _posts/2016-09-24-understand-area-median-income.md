@@ -9,8 +9,7 @@ It is almost impossible to participate in the San Francisco housing debate witho
 
 MOHCD calculates the year's AMI chart using the [U.S. Department of Housing and Urban Development](https://www.huduser.gov/portal/datasets/il.html) (HUD) "Unadjusted Area Median Income" for the HUD Metro Fair Market Rent Area (HMFA) made up of San Francisco, Marin, San Mateo counties. HUD in turn calculates their number from the Census Bureau's American Community Survey (ACS) data. Each year, MOHCD bases the annual income limit chart on this number, using it as the basis for a 4-person household at 100% AMI. 
 
-### Historical AMI numbers published by HUD:
-
+#### Historical AMI numbers published by HUD
 Year | AMI | Year | AMI
 ---- | --- | ---- | ---
 2016 | $107,700 | 2008 | $94,300
