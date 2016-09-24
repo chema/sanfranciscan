@@ -2,9 +2,9 @@
 layout: page
 title: About
 ---
-Sometime engineer, media activist and agitator/organizer. Currently helping build the power of San Francisco's working-class communities of color as political coordinator at [San Francisco Rising Alliance](http://www.sfrising.org/).
+Sometime engineer, media activist and agitator/organizer. Currently helping build the power of San Francisco's working-class communities of color as political coordinator at the [San Francisco Rising Alliance](http://www.sfrising.org/).
 
-Crossing paths with San Francesco's cities—del Bajío to the Bay—with detours at the Athens of the South et l'Arc lémanique.
+Crossing paths with San Francesco's cities—del Bajío to the Bay—with detours at [Quinaouatoua](https://en.wikipedia.org/wiki/Iroquois_settlement_of_the_north_shore_of_Lake_Ontario), the Athens of the South et l'[Arc lémanique](http://switzerland.indymedia.org/fr/).
 
 Follow [@elsanfranciscan](https://twitter.com/elsanfranciscan) for 140-character opinions. 
 
