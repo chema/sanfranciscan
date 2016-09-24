@@ -4,13 +4,13 @@ post: Understanding San Francisco's Area Media Income
 title: Understanding San Francisco's Area Media Income
 ---
 
-It is almost impossible to participate in the San Francisco housing debate without hearing the acronym *AMI* at least a couple of times. AMI stands for *Area Median Income* and it is published annually by the [Mayor’s Office of Housing and Community Development](http://sfmohcd.org/) (MOHCD).
+It is almost impossible to participate in a San Francisco housing conversation without hearing or using at least a couple of times the acronym *AMI*. But what does AMI mean and what does it represent?
 
-### Calculating the AMI
+### Defining and Calculating the AMI
 
-MOHCD calculates the year's [AMI chart](http://sfmohcd.org/sites/default/files/Documents/MOH/2016_AMI_IncomeLimits-SanFranHMFA.pdf) using the U.S. [Department of Housing and Urban Development](https://www.huduser.gov/portal/datasets/il.html) (HUD) *Unadjusted Area Median Income* for the HUD Metro Fair Market Rent Area (HMFA) made up of San Francisco, Marin, San Mateo counties. HUD in turn calculates their number from the Census Bureau's American Community Survey (ACS) data. Each year, MOHCD bases the annual income limit chart on this number, using it as the basis for a 4-person household at 100% AMI. 
+AMI stands for *Area Median Income* and it is published each year by the [Mayor’s Office of Housing and Community Development](http://sfmohcd.org/) (MOHCD). MOHCD calculates the annual [AMI chart](http://sfmohcd.org/sites/default/files/Documents/MOH/2016_AMI_IncomeLimits-SanFranHMFA.pdf) using the U.S. [Department of Housing and Urban Development](https://www.huduser.gov/portal/datasets/il.html) (HUD) *Unadjusted Area Median Income* for the HUD Metro Fair Market Rent Area (HMFA) made up of San Francisco, Marin, San Mateo counties. HUD in turn calculates their number from the Census Bureau's American Community Survey (ACS) data. Each year, MOHCD bases the annual income limit chart on this number, using it as the basis for a 4-person household at 100% AMI. 
 
-#### Historical AMI numbers published by HUD
+#### Historical AMI numbers published by HUD, 4-person family
 
 Year | AMI | Year | AMI
 ---- | --- | ---- | ---
