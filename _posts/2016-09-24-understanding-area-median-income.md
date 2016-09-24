@@ -1,6 +1,7 @@
 ---
 layout: post
 post: Understanding San Francisco's Area Media Income
+title: Understanding San Francisco's Area Media Income
 ---
 
 It is almost impossible to participate in the San Francisco housing debate without hearing the acronym *AMI* at least a couple of times. AMI stands for *Area Median Income* and it is published annually by the [Mayor’s Office of Housing and Community Development](http://sfmohcd.org/) (MOHCD).
