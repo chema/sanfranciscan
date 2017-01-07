@@ -4,7 +4,7 @@ post: Why Riseup&#8217;s Canary Matters
 title: Why Riseup&#8217;s Canary Matters
 ---
 
-After nearly five months, I am calling it: [Riseup's canary](https://riseup.net/en/canary) is truly well and dead. The Riseup Collective's services have been compromised and are no longer secure.
+After nearly five months, I am calling it: [Riseup's canary](https://riseup.net/en/canary) is truly well and dead. The Riseup Collective's services have been compromised and are no longer secure. ![Riseup Logo](http://chema.sanfranciscan.org/public/img/riseup-rainbow_medium.jpeg)
 
 This may sound like an extreme claim, until one understands that the canary existed to let us if Riseup was ever compromised.
 
