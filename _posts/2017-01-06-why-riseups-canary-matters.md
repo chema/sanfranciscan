@@ -1,6 +1,7 @@
 ---
 layout: post
 post: Why the Riseup Collective's Canary Matters
+title: Why the Riseup Collective's Canary Matters
 ---
 
 After nearly five months, I am calling it: [Riseup's canary](https://riseup.net/en/canary) is truly well and dead. The Riseup Collective's services have been compromised and are no longer secure. This may sound like an farfetched claim, until you understand that the canary existed to let us know if this ever happened.
@@ -30,10 +31,10 @@ Compromising one of the most visible and accessible community ISPs guarantees th
 
 ## What Now?
 
-We must find (or create!) alternative, secure ISPs that are invulnerable to or at least secure from known attacks. This is a list of suggestions that I will discuss in follow-up posts:
+We must find and use (and create!) alternative, secure service providers that are invulnerable to (or at least more secure from) known attacks immediately. This is a list of suggestions that I will discuss in follow-up posts:
 
 * **Email** [Protonmail](http://protonmail.com/), a Swiss-based provider. It isn't perfect, but it is legally and technologically safer than any US-based service, free or paid. *Accepts Bitcoin*
 * **Hosting** [OrangeWebsite](http://orangewebsite.com/), an Iceland-based provider. Like Protonmail, it isn't perfect and should not be used for secure email, but it is legally and technologically safer than any US-based service. Their servers also run on 100% renewable energy.  *Accepts Bitcoin*
-* **Text** For texting, use [Whisper System's](https://whispersystems.org/)'s Signal is great, particularly if you use disappearing messages.
+* **Text and Calls** For mobile communications, [Whisper System's](https://whispersystems.org/)'s Signal is great. Just use disappearing messages!
 * **Browsing** For everyday internet usage, use [Tor Browser](https://www.torproject.org/) and carefully stick to their suggestions.
 * **Identity Control**. Can't beat [GnuPG](https://www.gnupg.org/).
