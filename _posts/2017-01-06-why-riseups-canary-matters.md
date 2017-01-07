@@ -4,9 +4,9 @@ post: Why Riseup&#8217;s Canary Matters
 title: Why Riseup&#8217;s Canary Matters
 ---
 
-<img align="right" src="http://chema.sanfranciscan.org/public/img/riseup-rainbow_medium.jpeg"> After nearly five months, I am calling it: [Riseup's canary](https://riseup.net/en/canary) is truly well and dead. The Riseup Collective's services have been compromised and are no longer secure.
+<img align="right" src="http://chema.sanfranciscan.org/public/img/riseup-rainbow_medium.jpeg"> After nearly five months, I am calling it: [Riseup's canary](https://riseup.net/en/canary) is truly well and dead. Riseup's services have been compromised and are no longer secure.
 
-This may sound like an extreme claim, until one understands that the canary existed to let us if Riseup was ever compromised.
+This may sound like an extreme claim, until one understands that the canary existed to let us know if Riseup was ever compromised.
 
 ### Understanding Warrant Canaries
 
@@ -18,7 +18,7 @@ In short, the ISP keeps repeating everything is OK, until it stops saying everyt
 
 ### Riseup's Canary & Its Death
 
-The Riseup Collective took [their canary statement](https://riseup.net/about-us/canary/canary-statement-signed.txt) a step further by releasing a verifiable signed statement roughly every three months denying:
+The Riseup Collective took their canary statement a step further by releasing [a verifiable statement](https://riseup.net/about-us/canary/canary-statement-signed.txt) roughly every three months denying:
 
 * Having received any [National Security Letters](https://en.wikipedia.org/wiki/National_security_letter) or [FISA court](https://en.wikipedia.org/wiki/United_States_Foreign_Intelligence_Surveillance_Court) orders;
 * Being subject to any gag order by a FISA court, or any other similar court of any government;
@@ -27,17 +27,17 @@ The Riseup Collective took [their canary statement](https://riseup.net/about-us/
 
 The Riseup Collective used their [public PGP key](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x3043E2B7139A768E) to cryptographically-sign the statement, greatly diminishing the possibility of state authorities updating the canary themselves in the case of the complete seizure of the Collective's infrastructure.
 
-As of January 6, 2017, it has been 143 days—nearly five months—since Riseup's Canary was last updated.
+As of January 6, 2017, it has been 143 days—nearly five months—since Riseup's canary was last updated.
 
 ### Why Riseup's Compromise Matters Now More than Ever
 
-Considering the reasons for having a canary and the care they took to implement it, is now reasonable to assume that some or all of the above denials are no longer valid and that the Riseup Collective's services have been compromised and are no longer secure.
+Considering the reasons for having a canary and the precautions they took implementing it, is now reasonable to assume that some or all of the above denials are no longer valid and that Riseup's services have been compromised and are no longer secure.
 
 The Riseup Collective [correctly states](https://riseup.net/en/about-us) that precise information can allow state authorities to disrupt large social movements through the disruption of specific relationships and associations.
 
 On January 20, the Trump administration will take control of the [United States Intelligence Community](https://en.wikipedia.org/wiki/United_States_Intelligence_Community), collectively the most powerful and experienced intelligence-gathering system in the history of the world.
 
-Compromising one of the most visible and accessible community ISPs guarantees that movement organizations and individuals abandoning corporate communication infrastructure for the perceived safety of community-created and community-led collectives will remain vulnerable to state disruption as they seek to resist against the administration's authoritarian, sexist, xenophobic and racist policies.
+Compromising one of the most visible and accessible community ISPs guarantees that movement organizations and individuals abandoning corporate communication infrastructure for the perceived safety of community-created and community-led collectives will remain vulnerable to state disruption as they seek to resist against the incoming administration's authoritarian, sexist, xenophobic and racist policies.
 
 ### What Now?
 
