@@ -39,8 +39,8 @@ Compromising one of the most visible and accessible community ISPs guarantees th
 
 If we are serious about organizing against this administration and its threats, we must immediately begin using service providers that are secure from known legal, physical and technical attacks. This is a list of suggestions that I will discuss in follow-up posts:
 
-* **Email** [Protonmail](http://protonmail.com/), a Swiss-based provider. It isn't perfect, but it is legally and technologically safer than any US-based service. *Accepts Bitcoin*
-* **Hosting** [OrangeWebsite](http://orangewebsite.com/), an Iceland-based provider. Like Protonmail, it isn't perfect and should not be used for secure email, but it is legally and technologically safer than any US-based service. Their servers also run on 100% renewable energy.  *Accepts Bitcoin*
+* **Email** [Protonmail](http://protonmail.com/), a Swiss-based provider. It isn't perfect, but it is legally and technically safer than any US-based service. *Accepts Bitcoin*
+* **Hosting** [OrangeWebsite](http://orangewebsite.com/), an Iceland-based provider. Like Protonmail, it isn't perfect and should not be used for secure email, but it is legally and technically safer than any US-based service. Their servers also run on 100% renewable energy.  *Accepts Bitcoin*
 * **Text and Calls** For mobile communications, [Whisper System's](https://whispersystems.org/)'s Signal is great. Just use disappearing messages!
 * **Browsing** For everyday internet usage, use [Tor Browser](https://www.torproject.org/) and carefully follow their suggestions.
 * **Identity Control**. Can't beat [GnuPG](https://www.gnupg.org/).
