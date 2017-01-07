@@ -4,11 +4,11 @@ post: Why the Riseup Collective&#8217;s Canary Matters
 title: Why the Riseup Collective&#8217;s Canary Matters
 ---
 
-After nearly five months, I am calling it: [Riseup's canary](https://riseup.net/en/canary) is truly well and dead. The Riseup Collective's services have been compromised and are no longer secure. This may sound like an farfetched claim, until you understand that the canary existed to let us know if this ever happened.
+After nearly five months, I am calling it: [Riseup's canary](https://riseup.net/en/canary) is truly well and dead. The Riseup Collective's services have been compromised and are no longer secure. This may sound like an extreme claim, until one understands that the canary existed to let us know if this ever happened.
 
 ## Understanding Warrant Canaries
 
-Whenever state authorities compel an internet service provider (ISP) to turn over user data, limits may also be placed on the target ISP on communicating the existence of said legal commands. Wary of this possibility, some ISPs use 'canary statements' (also called warrant canaries or transparency reports) to indirectly convey the integrity of their services to their users by taking advantage of the inability of state authorities to compel specific expressive statements.
+Whenever state authorities compel an internet service provider (ISP) to turn over user data, limits may also be placed on the target ISP on communicating the existence of said legal commands. Wary of this possibility, some ISPs use 'canary statements' (also called warrant canaries or transparency reports) to indirectly convey the integrity of their services to their users by taking advantage of the inability of state authorities to order them to make specific statements.
 
 ## Riseup's Canary & Its Death
 
@@ -19,22 +19,22 @@ The Riseup Collective took their canary statement a step further by releasing a 
 * Placing any backdoors in their hardware or software and having received any requests to do so;
 * Disclosing any user communications to any third party.
 
-The Riseup Collective took it one step further by using a cryptographically-signed statement that greatly diminished the possibility of state authorities updating the canary themselves in the case of the complete seizure of their infrastructure.
+The Riseup Collective took their canary one step further by using a cryptographically-signed statement that greatly diminished the possibility of state authorities updating the canary themselves in the case of the complete seizure of the Collective's infrastructure.
 
-As of January 6, 2017, it has been 143 days—nearly five months—since the Riseup Collective's Canary was last updated. It is now prudent to assume some or all of the above denials are no longer valid and that the Riseup Collective's services have been compromised.
+As of January 6, 2017, it has been 143 days—nearly five months—since the Collective's Canary was last updated. Considering the reasons for having a canary and the care they took to implement it, is now reasonable to assume that some or all of the above denials are no longer valid and that the Riseup Collective's services have been compromised and are no longer secure.
 
 ## Why Riseup's Compromise Matters Now More than Ever
 
 The Riseup Collective [correctly states](https://riseup.net/en/about-us) that precise information can allow state authorities to disrupt large social movements through the disruption of specific relationships and associations. On January 20, the Trump administration will take control of the [United States Intelligence Community](https://en.wikipedia.org/wiki/United_States_Intelligence_Community), collectively the most powerful and experienced intelligence-gathering system in the history of the world.
 
-Compromising one of the most visible and accessible community ISPs guarantees that movement organizations and individuals abandoning corporate communication infrastructure for community-created and community-led collectives remain vulnerable to state disruption.
+Compromising one of the most visible and accessible community ISPs guarantees that movement organizations and individuals abandoning corporate communication infrastructure for community-created and community-led collectives will remain vulnerable to state disruption as they seek to resist against the administration's authoritarian, sexist, xenophobic and racist policies.
 
 ## What Now?
 
-We must find and use (and create!) alternative, secure service providers that are invulnerable to (or at least more secure from) known attacks immediately. This is a list of suggestions that I will discuss in follow-up posts:
+If we are serious about organizing against this administration and its threats, we must immediately begin using service providers that are secure from known legal, physical and technical attacks. This is a list of suggestions that I will discuss in follow-up posts:
 
-* **Email** [Protonmail](http://protonmail.com/), a Swiss-based provider. It isn't perfect, but it is legally and technologically safer than any US-based service, free or paid. *Accepts Bitcoin*
+* **Email** [Protonmail](http://protonmail.com/), a Swiss-based provider. It isn't perfect, but it is legally and technologically safer than any US-based service. *Accepts Bitcoin*
 * **Hosting** [OrangeWebsite](http://orangewebsite.com/), an Iceland-based provider. Like Protonmail, it isn't perfect and should not be used for secure email, but it is legally and technologically safer than any US-based service. Their servers also run on 100% renewable energy.  *Accepts Bitcoin*
 * **Text and Calls** For mobile communications, [Whisper System's](https://whispersystems.org/)'s Signal is great. Just use disappearing messages!
-* **Browsing** For everyday internet usage, use [Tor Browser](https://www.torproject.org/) and carefully stick to their suggestions.
+* **Browsing** For everyday internet usage, use [Tor Browser](https://www.torproject.org/) and carefully follow their suggestions.
 * **Identity Control**. Can't beat [GnuPG](https://www.gnupg.org/).
