@@ -1,7 +1,7 @@
 ---
 layout: post
-post: Why the Riseup Collective's Canary Matters
-title: Why the Riseup Collective's Canary Matters
+post: Why the Riseup Collective&#8217;s Canary Matters
+title: Why the Riseup Collective&#8217;s Canary Matters
 ---
 
 After nearly five months, I am calling it: [Riseup's canary](https://riseup.net/en/canary) is truly well and dead. The Riseup Collective's services have been compromised and are no longer secure. This may sound like an farfetched claim, until you understand that the canary existed to let us know if this ever happened.
