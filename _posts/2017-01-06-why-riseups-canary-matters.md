@@ -1,29 +1,29 @@
 ---
 layout: post
-post: Why the Riseup Collective&#8217;s Canary Matters
-title: Why the Riseup Collective&#8217;s Canary Matters
+post: Why Riseup&#8217;s Canary Matters
+title: Why Riseup&#8217;s Canary Matters
 ---
 
 After nearly five months, I am calling it: [Riseup's canary](https://riseup.net/en/canary) is truly well and dead. The Riseup Collective's services have been compromised and are no longer secure.
 
-This may sound like an extreme claim, until one understands that the canary existed to let us know if this ever happened.
+This may sound like an extreme claim, until one understands that the canary existed to let us if Riseup was ever compromised.
 
 ### Understanding Warrant Canaries
 
-Whenever state authorities compel an internet service provider (ISP) to turn over user data, limits may also be placed on the target ISP on communicating the existence of said legal commands. Wary of this possibility, some ISPs use 'canary statements' (also called warrant canaries or transparency reports) to indirectly convey the integrity of their services to their users by taking advantage of the inability of state authorities to order them to make specific statements.
+Whenever state authorities compel an internet service provider (ISP) to turn over user data, limits may also be placed on the target ISP on communicating the existence of said legal commands. Wary of this possibility, some ISPs use 'canary statements' (also called warrant canaries or transparency reports) to indirectly convey their services' integrity. This is possible thanks to the legal concept of "compelled speech", which prevents authorities from forcing parties (in this case the ISP) from making specific statements. In short, the ISP keeps repeating everything is OK, until it stops saying everything is OK.
 
 ### Riseup's Canary & Its Death
 
-The Riseup Collective took their canary statement a step further by releasing a cryptographically-signed statement roughly every three months denying:
+The Riseup Collective took [their canary statement](https://riseup.net/about-us/canary/canary-statement-signed.txt) one step further by releasing a cryptographically-signed statement roughly every three months denying:
 
 * Having received any [National Security Letters](https://en.wikipedia.org/wiki/National_security_letter) or [FISA court](https://en.wikipedia.org/wiki/United_States_Foreign_Intelligence_Surveillance_Court) orders;
 * Being subject to any gag order by a FISA court, or any other similar court of any government;
 * Placing any backdoors in their hardware or software and having received any requests to do so;
 * Disclosing any user communications to any third party.
 
-The Riseup Collective took their canary one step further by using a cryptographically-signed statement that greatly diminished the possibility of state authorities updating the canary themselves in the case of the complete seizure of the Collective's infrastructure.
+The Riseup Collective took their canary one step further by using their [public PGP key](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x3043E2B7139A768E) to cryptographically-sign the statement, greatly diminishing the possibility of state authorities updating the canary themselves in the case of the complete seizure of the Collective's infrastructure.
 
-As of January 6, 2017, it has been 143 days—nearly five months—since the Collective's Canary was last updated.
+As of January 6, 2017, it has been 143 days—nearly five months—since Riseup's Canary was last updated.
 
 Considering the reasons for having a canary and the care they took to implement it, is now reasonable to assume that some or all of the above denials are no longer valid and that the Riseup Collective's services have been compromised and are no longer secure.
 
@@ -33,7 +33,7 @@ The Riseup Collective [correctly states](https://riseup.net/en/about-us) that pr
 
 On January 20, the Trump administration will take control of the [United States Intelligence Community](https://en.wikipedia.org/wiki/United_States_Intelligence_Community), collectively the most powerful and experienced intelligence-gathering system in the history of the world.
 
-Compromising one of the most visible and accessible community ISPs guarantees that movement organizations and individuals abandoning corporate communication infrastructure for community-created and community-led collectives will remain vulnerable to state disruption as they seek to resist against the administration's authoritarian, sexist, xenophobic and racist policies.
+Compromising one of the most visible and accessible community ISPs guarantees that movement organizations and individuals abandoning corporate communication infrastructure for the perceived safety of community-created and community-led collectives will remain vulnerable to state disruption as they seek to resist against the administration's authoritarian, sexist, xenophobic and racist policies.
 
 ### What Now?
 
