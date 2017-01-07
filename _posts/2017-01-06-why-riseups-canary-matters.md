@@ -10,18 +10,20 @@ This may sound like an extreme claim, until one understands that the canary exis
 
 ### Understanding Warrant Canaries
 
-Whenever state authorities compel an internet service provider (ISP) to turn over user data, limits may also be placed on the target ISP on communicating the existence of said legal commands. Wary of this possibility, some ISPs use 'canary statements' (also called warrant canaries or transparency reports) to indirectly convey their services' integrity. This is possible thanks to the legal concept of "compelled speech", which prevents authorities from forcing parties (in this case the ISP) from making specific statements. In short, the ISP keeps repeating everything is OK, until it stops saying everything is OK.
+Whenever state authorities compel an internet service provider (ISP) to turn over user data, limits may also be placed on the target ISP on communicating the existence of said legal commands. Wary of this possibility, some ISPs use 'canary statements' (also called warrant canaries or transparency reports) to indirectly convey their services' integrity.
+
+Warrant canaries are possible thanks to the legal concept of "compelled speech", which prevents authorities from forcing parties (in this case the ISP) from making specific statements. In short, the ISP keeps repeating everything is OK, until it stops saying everything is OK.
 
 ### Riseup's Canary & Its Death
 
-The Riseup Collective took [their canary statement](https://riseup.net/about-us/canary/canary-statement-signed.txt) one step further by releasing a cryptographically-signed statement roughly every three months denying:
+The Riseup Collective took [their canary statement](https://riseup.net/about-us/canary/canary-statement-signed.txt) a step further by releasing a verifiable signed statement roughly every three months denying:
 
 * Having received any [National Security Letters](https://en.wikipedia.org/wiki/National_security_letter) or [FISA court](https://en.wikipedia.org/wiki/United_States_Foreign_Intelligence_Surveillance_Court) orders;
 * Being subject to any gag order by a FISA court, or any other similar court of any government;
 * Placing any backdoors in their hardware or software and having received any requests to do so;
 * Disclosing any user communications to any third party.
 
-The Riseup Collective took their canary one step further by using their [public PGP key](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x3043E2B7139A768E) to cryptographically-sign the statement, greatly diminishing the possibility of state authorities updating the canary themselves in the case of the complete seizure of the Collective's infrastructure.
+The Riseup Collective used their [public PGP key](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x3043E2B7139A768E) to cryptographically-sign the statement, greatly diminishing the possibility of state authorities updating the canary themselves in the case of the complete seizure of the Collective's infrastructure.
 
 As of January 6, 2017, it has been 143 days—nearly five months—since Riseup's Canary was last updated.
 
