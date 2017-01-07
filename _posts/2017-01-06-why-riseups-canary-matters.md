@@ -12,7 +12,9 @@ This may sound like an extreme claim, until one understands that the canary exis
 
 Whenever state authorities compel an internet service provider (ISP) to turn over user data, limits may also be placed on the target ISP on communicating the existence of said legal commands. Wary of this possibility, some ISPs use 'canary statements' (also called warrant canaries or transparency reports) to indirectly convey their services' integrity.
 
-Warrant canaries are possible thanks to the legal concept of "compelled speech", which prevents authorities from forcing parties (in this case the ISP) from making specific statements. In short, the ISP keeps repeating everything is OK, until it stops saying everything is OK.
+Warrant canaries are possible thanks to the legal concept of "compelled speech", which prevents authorities from forcing parties (in this case the ISP) from making specific statements.
+
+In short, the ISP keeps repeating everything is OK, until it stops saying everything is OK.
 
 ### Riseup's Canary & Its Death
 
@@ -27,9 +29,9 @@ The Riseup Collective used their [public PGP key](https://pgp.mit.edu/pks/lookup
 
 As of January 6, 2017, it has been 143 days—nearly five months—since Riseup's Canary was last updated.
 
-Considering the reasons for having a canary and the care they took to implement it, is now reasonable to assume that some or all of the above denials are no longer valid and that the Riseup Collective's services have been compromised and are no longer secure.
-
 ### Why Riseup's Compromise Matters Now More than Ever
+
+Considering the reasons for having a canary and the care they took to implement it, is now reasonable to assume that some or all of the above denials are no longer valid and that the Riseup Collective's services have been compromised and are no longer secure.
 
 The Riseup Collective [correctly states](https://riseup.net/en/about-us) that precise information can allow state authorities to disrupt large social movements through the disruption of specific relationships and associations.
 
