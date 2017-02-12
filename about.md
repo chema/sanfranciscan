@@ -2,13 +2,14 @@
 layout: page
 title: About
 ---
-Sometime engineer, media activist and agitator/organizer. Currently helping build the power of San Francisco's working-class communities of color as political coordinator at the [San Francisco Rising Alliance](http://www.sfrising.org/).
+Sometime engineer, media activist and agitator/organizer. Currently helping build the power of San Francisco's working-class communities of color as political coördinator at the [San Francisco Rising Alliance](http://www.sfrising.org/).
 
 Crossing paths with San Francesco's cities—del Bajío to the Bay—with detours at [Quinaouatoua](https://en.wikipedia.org/wiki/Iroquois_settlement_of_the_north_shore_of_Lake_Ontario), the Athens of the South et l'[Arc lémanique](http://switzerland.indymedia.org/fr/).
 
-Follow [@elsanfranciscan](https://twitter.com/elsanfranciscan) for 140-character opinions. 
+Follow [@elsanfranciscan](https://twitter.com/elsanfranciscan) for 140-character opinions.
 
 For a more technical perspective, visit [github/chema](https://github.com/chema).
 
-Key fingerprint: [DD5E BE97 4DE5 8254 D89E  E663 6DC9 5D8C CDCF 67AE](https://pgp.mit.edu/pks/lookup?op=vindex&fingerprint=on&search=0x6DC95D8CCDCF67AE)
+Public key fingerprint: [DD5E BE97 4DE5 8254 D89E  E663 6DC9 5D8C CDCF 67AE](https://pgp.mit.edu/pks/lookup?op=vindex&fingerprint=on&search=0x6DC95D8CCDCF67AE)
 
+Above identities verifiable at [keybase/chema](https://keybase.io/chema).
