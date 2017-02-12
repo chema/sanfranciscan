@@ -16,7 +16,7 @@ permalink:        pretty
 title:            The San Franciscan
 tagline:          'Un poquito de todo'
 description:      'Un poquito de todo'
-url:              http://chema.sanfranciscan.org
+url:              http://sanfranciscan.org
 baseurl:          /
 
 author:
@@ -32,6 +32,6 @@ github:
   repo:           https://github.com/chema.github.io
 
 piwik:
-  base_url: piwik.sanfranciscan.org
+  base_url: sanfranciscan.org
   site_id: 1
 
