@@ -5,7 +5,7 @@ title: Resources
 
 This is a curated list of organizations, sites, events, &c that I find useful.
 
-### Organizations
+#### Organizations
 
 * [SF Rising Alliance](http://sfrising.org/)
 * [Seed the Commons](http://seedthecommons.org/)
@@ -14,6 +14,6 @@ This is a curated list of organizations, sites, events, &c that I find useful.
 * [Causa Justa :: Just Cause](http://cjjc.org/)
 
 
-### Resistance Networks
+#### Resistance Networks
 
 * [Bay Resistance](http://bayresistance.org/)
