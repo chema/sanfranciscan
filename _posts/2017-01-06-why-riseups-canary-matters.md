@@ -4,6 +4,8 @@ post: Why Riseup&#8217;s Canary Matters
 title: Why Riseup&#8217;s Canary Matters
 ---
 
+> UPDATE: In [a Feb 16, 2017 press release](https://riseup.net/en/about-us/press/canary-statement#fn1) Riseup confirmed they had been unable to update their warrant canary due to gag orders that accompanied two sealed warrants related to alleged extortion activities. They have complied with these warrants and have updated their canary with more general language.
+
 <img align="right" src="http://sanfranciscan.org/public/img/riseup-rainbow_medium.jpeg"> After nearly five months, I am calling it: [Riseup's canary](https://riseup.net/en/canary) is truly well and dead. Riseup's services have been compromised and are no longer secure.
 
 This may sound like an extreme claim, until one understands that the canary existed to let us know if Riseup was ever compromised.
