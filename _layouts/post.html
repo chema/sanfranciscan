@@ -2,19 +2,11 @@
 layout: default
 ---
 
-{% assign category = site.my_categories | where: "slug", post.category %}
-{% assign category = category[0] %}
-{% if category %}
-    {% capture category_content %}<a class="label" href="{{ category.url }}">{{ category.name }}</a>{% endcapture %}
-{% endif %}
-
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date: "%Y-%m-%d" }}</span>
   {{ content }}
 </div>
-
-<p id="post-meta">{{ category_content }}</p>
 
 <div class="related">
   <h2>Related Posts</h2>

@@ -2,8 +2,6 @@
 layout: post
 post: ICE Is to Blame
 title: ICE Is to Blame
-category: resistance
-tags: [resistance, immigration, ICE]
 ---
 
 U.S. Immigration and Customs Enforcement (ICE) [said tonight](https://twitter.com/ICEgov/status/832035265740943362) that reports of immigration checkpoints and sweeps or “roundups” were false, dangerous and irresponsible. They said reports like these created "mass panic and put communities and law enforcement personnel in unnecessary danger".
