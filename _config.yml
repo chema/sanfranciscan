@@ -12,6 +12,11 @@ gems:
 permalink:        pretty
 # relative_permalinks: true
 
+collections:
+  my_categories:
+    output: true
+    permalink: /category/:name/
+
 # Setup
 title:            The San Franciscan
 tagline:          'Un poquito de todo'
