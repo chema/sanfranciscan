@@ -1,0 +1,6631 @@
+{
+  "features": [
+    {
+      "properties": {
+        "CNN": 3692201,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "JENNINGS ST",
+        "Streetna_1": "CARGO WAY",
+        "Innovative": "SEPARATED BIKEWAY",
+        "Barrier": "SAFE-HIT POSTS",
+        "Surface_Tr": null,
+        "Shape_Leng": 2258.41194257,
+        "STREETNAME": "CARGO",
+        "TYPE": "WAY",
+        "FROM_ST": "MENDELL ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38311822025977,
+            37.743883336616655
+          ],
+          [
+            -122.38193590086199,
+            37.74308134178288
+          ],
+          [
+            -122.37684733560192,
+            37.74019196743035
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 220102,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "WALLACE AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 139.318825701,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "LANE ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39274489288297,
+            37.72885198132171
+          ],
+          [
+            -122.39289941962421,
+            37.72848958051346
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 221101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "YOSEMITE AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 291.707119764,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "WALLACE AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39289941962421,
+            37.72848958051346
+          ],
+          [
+            -122.39323278677549,
+            37.72773346839433
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 3316000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "ARMY ST",
+        "Streetna_1": "BRYANT ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 455.645943095,
+        "STREETNAME": "BRYANT",
+        "TYPE": "ST",
+        "FROM_ST": "26TH ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40882527998863,
+            37.749600640609025
+          ],
+          [
+            -122.40870631309826,
+            37.74835284769894
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 199201,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "CUSTER AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 303.920245666,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "BURKE AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38712852196687,
+            37.745070440233924
+          ],
+          [
+            -122.38715682318998,
+            37.74491500674506
+          ],
+          [
+            -122.38737260728891,
+            37.7442594067449
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 2181201,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "SAGAMORE ST",
+        "Streetna_1": "ALEMANY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 175.324398452,
+        "STREETNAME": "ALEMANY",
+        "TYPE": "BLVD",
+        "FROM_ST": "ORIZABA AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.46254571244677,
+            37.71117102849198
+          ],
+          [
+            -122.46261449418913,
+            37.711280049436084
+          ],
+          [
+            -122.46303002861775,
+            37.71142254141013
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 2180201,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "ORIZABA AV",
+        "Streetna_1": "ALEMANY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 677.982185659,
+        "STREETNAME": "ALEMANY",
+        "TYPE": "BLVD",
+        "FROM_ST": "CRYSTAL ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.460482354229,
+            37.71032208315313
+          ],
+          [
+            -122.46102907193573,
+            37.71066483840952
+          ],
+          [
+            -122.46132265372792,
+            37.7107927019736
+          ],
+          [
+            -122.46190078401206,
+            37.710973525232596
+          ],
+          [
+            -122.46254571244677,
+            37.71117102849198
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 4888101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "DAY ST",
+        "Streetna_1": "DOLORES ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 293.368904823,
+        "STREETNAME": "DOLORES",
+        "TYPE": "ST",
+        "FROM_ST": "29TH ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42438486323523,
+            37.743838216297846
+          ],
+          [
+            -122.42430936950919,
+            37.74303475510398
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 4889101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "30TH ST",
+        "Streetna_1": "DOLORES ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 291.563529585,
+        "STREETNAME": "DOLORES",
+        "TYPE": "ST",
+        "FROM_ST": "DAY ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42430936950919,
+            37.74303475510398
+          ],
+          [
+            -122.4242332773674,
+            37.74223630173709
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 2800101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "FLOWER ST",
+        "Streetna_1": "BAY SHORE BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 232.784407162,
+        "STREETNAME": "BAY SHORE",
+        "TYPE": "BLVD",
+        "FROM_ST": "OAKDALE AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4052423868202,
+            37.74305120504614
+          ],
+          [
+            -122.40563347237051,
+            37.74249239646298
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 2802101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "HELENA ST",
+        "Streetna_1": "BAY SHORE BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 606.392649555,
+        "STREETNAME": "BAY SHORE",
+        "TYPE": "BLVD",
+        "FROM_ST": "INDUSTRIAL ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40691050395715,
+            37.737965866668716
+          ],
+          [
+            -122.40670383564505,
+            37.73630860401572
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11395000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "SOMERSET ST",
+        "Streetna_1": "SAN BRUNO AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 766.960218133,
+        "STREETNAME": "SAN BRUNO",
+        "TYPE": "AVE",
+        "FROM_ST": "BEEMAN LN"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4004493709767,
+            37.714730938692625
+          ],
+          [
+            -122.40121056191599,
+            37.71452177740567
+          ],
+          [
+            -122.40162571398399,
+            37.714515075783645
+          ],
+          [
+            -122.40178937912124,
+            37.714451871219
+          ],
+          [
+            -122.4018844885111,
+            37.714359491385885
+          ],
+          [
+            -122.40198142588997,
+            37.714172873499884
+          ],
+          [
+            -122.4020957951245,
+            37.71350820317721
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11394000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "BEEMAN LN",
+        "Streetna_1": "SAN BRUNO AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 390.315293646,
+        "STREETNAME": "SAN BRUNO",
+        "TYPE": "AVE",
+        "FROM_ST": "CAMPBELL AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39954775392711,
+            37.715390317700056
+          ],
+          [
+            -122.39956662500488,
+            37.71520102972897
+          ],
+          [
+            -122.39969737302773,
+            37.715010504335005
+          ],
+          [
+            -122.399939723717,
+            37.71487537658101
+          ],
+          [
+            -122.4004493709767,
+            37.714730938692625
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11396000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "WABASH TERR",
+        "Streetna_1": "SAN BRUNO AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 186.924688475,
+        "STREETNAME": "SAN BRUNO",
+        "TYPE": "AVE",
+        "FROM_ST": "SOMERSET ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4020957951245,
+            37.71350820317721
+          ],
+          [
+            -122.40209790843403,
+            37.71299484220444
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11398000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "ARLETA AV",
+        "Streetna_1": "SAN BRUNO AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 239.067236356,
+        "STREETNAME": "SAN BRUNO",
+        "TYPE": "AVE",
+        "FROM_ST": "RACINE LN"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40211278705061,
+            37.71271222614207
+          ],
+          [
+            -122.40225800297671,
+            37.71256013460698
+          ],
+          [
+            -122.40247095421796,
+            37.71243393597567
+          ],
+          [
+            -122.40245947904481,
+            37.71217948604361
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11397000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "RACINE LN",
+        "Streetna_1": "SAN BRUNO AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 103.17923297,
+        "STREETNAME": "SAN BRUNO",
+        "TYPE": "AVE",
+        "FROM_ST": "WABASH TERR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40209790843403,
+            37.71299484220444
+          ],
+          [
+            -122.40209873243349,
+            37.712794862769705
+          ],
+          [
+            -122.40211278705061,
+            37.71271222614207
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 12714000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "VISITACION AV",
+        "Streetna_1": "TUNNEL AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 538.763797997,
+        "STREETNAME": "TUNNEL",
+        "TYPE": "AVE",
+        "FROM_ST": "LATHROP AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40106242677557,
+            37.71105017495752
+          ],
+          [
+            -122.40131831372491,
+            37.71014534021945
+          ],
+          [
+            -122.4013297567561,
+            37.709593161465484
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 9288101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "SAN ANSELMO AV",
+        "Streetna_1": "MONTEREY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 478.846544697,
+        "STREETNAME": "MONTEREY",
+        "TYPE": "BLVD",
+        "FROM_ST": "SAN ANDREAS WY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.46441981454456,
+            37.732283705744685
+          ],
+          [
+            -122.46547091819588,
+            37.73305602685294
+          ],
+          [
+            -122.46565867819997,
+            37.73315289885141
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 9289101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "SAN BENITO WY",
+        "Streetna_1": "MONTEREY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 390.021474503,
+        "STREETNAME": "MONTEREY",
+        "TYPE": "BLVD",
+        "FROM_ST": "SAN ANSELMO AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.46565867819997,
+            37.73315289885141
+          ],
+          [
+            -122.4658213120919,
+            37.73313602429971
+          ],
+          [
+            -122.46638093674557,
+            37.733067072514764
+          ],
+          [
+            -122.4669984900661,
+            37.7330921418213
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 9286201,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "SAN JACINTO WY",
+        "Streetna_1": "MONTEREY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 1077.1100298,
+        "STREETNAME": "MONTEREY",
+        "TYPE": "BLVD",
+        "FROM_ST": "SAN FELIPE AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.46173659848272,
+            37.73002203110521
+          ],
+          [
+            -122.46207602724036,
+            37.73005930981043
+          ],
+          [
+            -122.46238216703382,
+            37.73016843315202
+          ],
+          [
+            -122.46328545999788,
+            37.73069221290696
+          ],
+          [
+            -122.46345740357594,
+            37.7308693714391
+          ],
+          [
+            -122.46375260744627,
+            37.73162924202463
+          ],
+          [
+            -122.4640312680757,
+            37.73199954228277
+          ],
+          [
+            -122.46410771330815,
+            37.73205298534206
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11958101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "CLEARFIELD DR",
+        "Streetna_1": "SLOAT BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 260.457923756,
+        "STREETNAME": "SLOAT",
+        "TYPE": "BLVD",
+        "FROM_ST": "LAKESHORE PZ"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.49044354483571,
+            37.73405049695351
+          ],
+          [
+            -122.49134261820431,
+            37.7340078581754
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11957101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "LAKESHORE PZ",
+        "Streetna_1": "SLOAT BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 430.765158782,
+        "STREETNAME": "SLOAT",
+        "TYPE": "BLVD",
+        "FROM_ST": "EVERGLADE DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.48895603923889,
+            37.73411329747501
+          ],
+          [
+            -122.49044354483571,
+            37.73405049695351
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11950102,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "LAGUNITAS DR",
+        "Streetna_1": "SLOAT BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 248.578924747,
+        "STREETNAME": "SLOAT",
+        "TYPE": "BLVD",
+        "FROM_ST": "CRANLEIGH DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.47236726333456,
+            37.73470142372943
+          ],
+          [
+            -122.47322624818067,
+            37.734675507676
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11950101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "CRANLEIGH DR",
+        "Streetna_1": "SLOAT BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 230.75005325,
+        "STREETNAME": "SLOAT",
+        "TYPE": "BLVD",
+        "FROM_ST": "SAINT FRANCIS BLVD"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.47156934110625,
+            37.73470681082262
+          ],
+          [
+            -122.47236726333456,
+            37.73470142372943
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11959105,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "39TH AV",
+        "Streetna_1": "SLOAT BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 402.242666922,
+        "STREETNAME": "SLOAT",
+        "TYPE": "BLVD",
+        "FROM_ST": "SUNSET BLVD ON-RAMP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.49527142545874,
+            37.73374780999661
+          ],
+          [
+            -122.49645856933616,
+            37.73369430141224
+          ],
+          [
+            -122.49663599694088,
+            37.73377084260252
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11959104,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "SUNSET BLVD ON-RAMP",
+        "Streetna_1": "SLOAT BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 259.451884038,
+        "STREETNAME": "SLOAT",
+        "TYPE": "BLVD",
+        "FROM_ST": "SUNSET BLVD OFF-RAMP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.49437569056705,
+            37.733788415273246
+          ],
+          [
+            -122.49527142545874,
+            37.73374780999661
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11959103,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "SUNSET BLVD OFF-RAMP",
+        "Streetna_1": "SLOAT BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 300.65334063,
+        "STREETNAME": "SLOAT",
+        "TYPE": "BLVD",
+        "FROM_ST": "SUNSET BLVD ON-RAMP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.49333778070465,
+            37.73383643372077
+          ],
+          [
+            -122.49437569056705,
+            37.733788415273246
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11959102,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "36TH AV",
+        "Streetna_1": "SLOAT BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 266.4198328,
+        "STREETNAME": "SLOAT",
+        "TYPE": "BLVD",
+        "FROM_ST": "35TH AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.49241805003726,
+            37.733878977481226
+          ],
+          [
+            -122.49333778070465,
+            37.73383643372077
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11959101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "SUNSET BLVD OFF-RAMP",
+        "Streetna_1": "SLOAT BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 320.457383552,
+        "STREETNAME": "SLOAT",
+        "TYPE": "BLVD",
+        "FROM_ST": "34TH AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.49134261820431,
+            37.7340078581754
+          ],
+          [
+            -122.49152139547665,
+            37.733920379562484
+          ],
+          [
+            -122.49241805003726,
+            37.733878977481226
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11950103,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "BEACHMONT DR",
+        "Streetna_1": "SLOAT BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 261.172661951,
+        "STREETNAME": "SLOAT",
+        "TYPE": "BLVD",
+        "FROM_ST": "LAGUNITAS DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.47322624818067,
+            37.734675507676
+          ],
+          [
+            -122.47412877871034,
+            37.73464885573111
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11950104,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "19TH AV",
+        "Streetna_1": "SLOAT BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 281.698182892,
+        "STREETNAME": "SLOAT",
+        "TYPE": "BLVD",
+        "FROM_ST": "BEACHMONT DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.47412877871034,
+            37.73464885573111
+          ],
+          [
+            -122.47510247009883,
+            37.73462557232161
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 227101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "PAUL AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 305.982521911,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "FITZGERALD AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39526464705772,
+            37.72322233462599
+          ],
+          [
+            -122.39562276054885,
+            37.722431604057284
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 226101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "FITZGERALD AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 290.184995154,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "EGBERT AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39492615229592,
+            37.72397256379831
+          ],
+          [
+            -122.39526464705772,
+            37.72322233462599
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 224101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "CARROLL AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 294.37518984,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "BANCROFT AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39390250728776,
+            37.7262373948422
+          ],
+          [
+            -122.39424349308109,
+            37.72547565032591
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 223101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "BANCROFT AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 286.914717762,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "ARMSTRONG AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39357015659334,
+            37.72697983313475
+          ],
+          [
+            -122.39390250728776,
+            37.7262373948422
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 202101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "FAIRFAX AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 306.830772189,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "EVANS AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38792635113006,
+            37.74270315461147
+          ],
+          [
+            -122.38820034393615,
+            37.74188906306216
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 206101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "NEWHALL ST",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 192.55665839,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "INNES AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38903096712149,
+            37.73953344816266
+          ],
+          [
+            -122.38918932830893,
+            37.73901979035911
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 201000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "EVANS AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 312.344912886,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "DAVISON AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38762945354603,
+            37.74352792845309
+          ],
+          [
+            -122.38792635113006,
+            37.74270315461147
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 203101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "GALVEZ AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 295.478994602,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "FAIRFAX AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38820034393615,
+            37.74188906306216
+          ],
+          [
+            -122.38847589392458,
+            37.741107631933254
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 204101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "HUDSON AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 298.858127579,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "GALVEZ AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38847589392458,
+            37.741107631933254
+          ],
+          [
+            -122.38875458943146,
+            37.74031726354807
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 205101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "INNES AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 296.379909858,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "HUDSON AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38875458943146,
+            37.74031726354807
+          ],
+          [
+            -122.38903096712149,
+            37.73953344816266
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 207101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "KIRKWOOD AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 297.407436218,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "JERROLD AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38931005513129,
+            37.73874192993258
+          ],
+          [
+            -122.38958738015553,
+            37.73795539580958
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 208101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "LA SALLE AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 297.15377547,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "KIRKWOOD AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38958738015553,
+            37.73795539580958
+          ],
+          [
+            -122.3898644621706,
+            37.73716953163557
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 220101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "LANE ST",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 159.139739474,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "VAN DYKE AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3926245356641,
+            37.72927845397648
+          ],
+          [
+            -122.39274489288297,
+            37.72885198132171
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 214101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "REVERE AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 299.062943625,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "QUESADA AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39124449320273,
+            37.73322326218464
+          ],
+          [
+            -122.39152135051178,
+            37.732431908122926
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 213101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "QUESADA AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 298.782069807,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "PALOU AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39096789023814,
+            37.734013872317185
+          ],
+          [
+            -122.39124449320273,
+            37.73322326218464
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 211101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "OAKDALE AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 299.746964718,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "NEWCOMB AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39041626393241,
+            37.735590520757746
+          ],
+          [
+            -122.39069377255761,
+            37.73479735905013
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 8705101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "SCOTT ST",
+        "Streetna_1": "MARINA BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 647.331173017,
+        "STREETNAME": "MARINA",
+        "TYPE": "BLVD",
+        "FROM_ST": "CASA WY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4399993236374,
+            37.80607719921949
+          ],
+          [
+            -122.44220978521393,
+            37.80578627477268
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 12611000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "29TH ST",
+        "Streetna_1": "TIFFANY AVE",
+        "Innovative": "BIKE BOULEVARD",
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 1027.70651507,
+        "STREETNAME": "TIFFANY",
+        "TYPE": "AVE",
+        "FROM_ST": "DUNCAN ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4203576197857,
+            37.74649204550099
+          ],
+          [
+            -122.42197676566032,
+            37.74397945401529
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 1252000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "POTRERO AV",
+        "Streetna_1": "23RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 289.485988557,
+        "STREETNAME": "23RD",
+        "TYPE": "ST",
+        "FROM_ST": "UTAH ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40545417189202,
+            37.75433723137431
+          ],
+          [
+            -122.40645261624499,
+            37.75427693354849
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 1249000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "SAN BRUNO AV",
+        "Streetna_1": "23RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 278.704625622,
+        "STREETNAME": "23RD",
+        "TYPE": "ST",
+        "FROM_ST": "VERMONT ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40352310273957,
+            37.75445382936633
+          ],
+          [
+            -122.40448436490388,
+            37.754395792634675
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 1248000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "VERMONT ST",
+        "Streetna_1": "23RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 279.959850699,
+        "STREETNAME": "23RD",
+        "TYPE": "ST",
+        "FROM_ST": "KANSAS ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40255750979716,
+            37.754512120106774
+          ],
+          [
+            -122.40352310273957,
+            37.75445382936633
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 790000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "HARRISON ST",
+        "Streetna_1": "17TH ST",
+        "Innovative": "BUFFERED BIKE LANE",
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 212.384050136,
+        "STREETNAME": "17TH",
+        "TYPE": "ST",
+        "FROM_ST": "ALABAMA ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4122933962302,
+            37.7641933758824
+          ],
+          [
+            -122.41285899737528,
+            37.76415919035275
+          ],
+          [
+            -122.41300268373638,
+            37.76409086133727
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 791000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "TREAT AV",
+        "Streetna_1": "17TH ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 195.147782758,
+        "STREETNAME": "17TH",
+        "TYPE": "ST",
+        "FROM_ST": "HARRISON ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.41300268373638,
+            37.76409086133727
+          ],
+          [
+            -122.4135875691683,
+            37.7638232070269
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11131000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "MARKET ST",
+        "Streetna_1": "ROMAIN ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 260.881752459,
+        "STREETNAME": "ROMAIN",
+        "TYPE": "ST",
+        "FROM_ST": "GRAND VIEW AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44013389395364,
+            37.756422684729486
+          ],
+          [
+            -122.44089872961314,
+            37.75624594613003
+          ],
+          [
+            -122.44099875768823,
+            37.75621848500218
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 1129000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "GRAND VIEW AV",
+        "Streetna_1": "21ST ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 108.965109299,
+        "STREETNAME": "21ST",
+        "TYPE": "ST",
+        "FROM_ST": "WORTH ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44003256486164,
+            37.755228801075994
+          ],
+          [
+            -122.44040947849552,
+            37.75522875492991
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 6372101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "21ST ST",
+        "Streetna_1": "GRAND VIEW AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 460.038960026,
+        "STREETNAME": "GRAND VIEW",
+        "TYPE": "AVE",
+        "FROM_ST": "ROMAIN ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44013389395364,
+            37.756422684729486
+          ],
+          [
+            -122.44005662113447,
+            37.75595914759941
+          ],
+          [
+            -122.4400527372549,
+            37.75581041938422
+          ],
+          [
+            -122.44016300966302,
+            37.755616891122244
+          ],
+          [
+            -122.44040947849552,
+            37.75522875492991
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 1127000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "DOUGLASS ST",
+        "Streetna_1": "21ST ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 318.975840972,
+        "STREETNAME": "21ST",
+        "TYPE": "ST",
+        "FROM_ST": "EUREKA ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43776923061998,
+            37.75554069122081
+          ],
+          [
+            -122.43886431196651,
+            37.75543363795594
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 1800000,
+        "DIRECT": "W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "JOHN F KENNEDY DR",
+        "Streetna_1": "36TH AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 364.945619603,
+        "STREETNAME": "36TH",
+        "TYPE": "AVE",
+        "FROM_ST": "UNNAMED #134"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.49526346520953,
+            37.76996700418158
+          ],
+          [
+            -122.49568544258874,
+            37.769510474156164
+          ],
+          [
+            -122.49616067482009,
+            37.76929182523021
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 1799000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "UNNAMED #134",
+        "Streetna_1": "36TH AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 200.865681065,
+        "STREETNAME": "36TH",
+        "TYPE": "AVE",
+        "FROM_ST": "36TH AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4954119168612,
+            37.77050461306055
+          ],
+          [
+            -122.49531700810522,
+            37.77024833170959
+          ],
+          [
+            -122.49526346520953,
+            37.76996700418158
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 1795000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "SPRECKELS LAKE DR",
+        "Streetna_1": "36TH AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 158.488339271,
+        "STREETNAME": "36TH",
+        "TYPE": "AVE",
+        "FROM_ST": "FULTON ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.49597201589572,
+            37.772032014437826
+          ],
+          [
+            -122.49594383203144,
+            37.771920532352105
+          ],
+          [
+            -122.49569657050493,
+            37.77166582328726
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 1798000,
+        "DIRECT": "W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "JOHN F KENNEDY DR",
+        "Streetna_1": "36TH AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 316.269395469,
+        "STREETNAME": "36TH",
+        "TYPE": "AVE",
+        "FROM_ST": "UNNAMED #134"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.49491029975309,
+            37.77019807992693
+          ],
+          [
+            -122.4941772707902,
+            37.770229714614146
+          ],
+          [
+            -122.49382345115451,
+            37.770282846016876
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 4357000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "JOHN F KENNEDY DR",
+        "Streetna_1": "CONSERVATORY    WEST DR",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 1075.63491465,
+        "STREETNAME": "CONSERVATORY    WEST",
+        "TYPE": "DR",
+        "FROM_ST": "ARGUELLO BLVD"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45908994647851,
+            37.77324289783481
+          ],
+          [
+            -122.45922527454209,
+            37.77321003410468
+          ],
+          [
+            -122.45973028201824,
+            37.7731203581633
+          ],
+          [
+            -122.46027948356881,
+            37.773041557428634
+          ],
+          [
+            -122.46065821138181,
+            37.77297333025493
+          ],
+          [
+            -122.46085122707669,
+            37.77289270988493
+          ],
+          [
+            -122.46099445553993,
+            37.772774211573996
+          ],
+          [
+            -122.46110648467678,
+            37.7725826920817
+          ],
+          [
+            -122.46123791596656,
+            37.77238697890016
+          ],
+          [
+            -122.46138550850769,
+            37.772249054540104
+          ],
+          [
+            -122.461505273106,
+            37.77216578106244
+          ],
+          [
+            -122.46185259157035,
+            37.77201679099404
+          ],
+          [
+            -122.461943301922,
+            37.771941741225206
+          ],
+          [
+            -122.4620471302665,
+            37.77177648739585
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 19092000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "POINT LOBOS AV",
+        "Streetna_1": "EL CAMINO DEL MAR",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 310.930989279,
+        "STREETNAME": "EL CAMINO DEL MAR",
+        "TYPE": null,
+        "FROM_ST": "SEAL ROCK DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.50987917537323,
+            37.78062720672582
+          ],
+          [
+            -122.50959277003817,
+            37.78017256125968
+          ],
+          [
+            -122.50943294070824,
+            37.7798510700203
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11271000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "ARGUELLO BLVD",
+        "Streetna_1": "SACRAMENTO ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 697.021922643,
+        "STREETNAME": "SACRAMENTO",
+        "TYPE": "ST",
+        "FROM_ST": "CHERRY ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4568745195139,
+            37.786928220082316
+          ],
+          [
+            -122.45925576659297,
+            37.78662329991643
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 8708201,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "BAKER ST",
+        "Streetna_1": "MARINA BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 478.928118941,
+        "STREETNAME": "MARINA",
+        "TYPE": "BLVD",
+        "FROM_ST": "BRODERICK ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44565006383586,
+            37.80536846677029
+          ],
+          [
+            -122.44728687112168,
+            37.80516008977423
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 8706201,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "DIVISADERO ST",
+        "Streetna_1": "MARINA BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 517.850284021,
+        "STREETNAME": "MARINA",
+        "TYPE": "BLVD",
+        "FROM_ST": "SCOTT ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44220978521393,
+            37.80578627477268
+          ],
+          [
+            -122.44398351783985,
+            37.80558113856588
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 7027000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "STEUART ST",
+        "Streetna_1": "HOWARD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 227.380108564,
+        "STREETNAME": "HOWARD",
+        "TYPE": "ST",
+        "FROM_ST": "THE EMBARCADERO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39108653532402,
+            37.792445000371586
+          ],
+          [
+            -122.39164579758598,
+            37.792005701484435
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 7028000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "SPEAR ST",
+        "Streetna_1": "HOWARD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 358.439726669,
+        "STREETNAME": "HOWARD",
+        "TYPE": "ST",
+        "FROM_ST": "STEUART ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39164579758598,
+            37.792005701484435
+          ],
+          [
+            -122.39252462346678,
+            37.79131097109606
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 7029000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "MAIN ST",
+        "Streetna_1": "HOWARD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 360.277994263,
+        "STREETNAME": "HOWARD",
+        "TYPE": "ST",
+        "FROM_ST": "SPEAR ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39252462346678,
+            37.79131097109606
+          ],
+          [
+            -122.39340793904353,
+            37.790612670425396
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 7031000,
+        "DIRECT": "W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "FREMONT ST",
+        "Streetna_1": "HOWARD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 356.778501045,
+        "STREETNAME": "HOWARD",
+        "TYPE": "ST",
+        "FROM_ST": "BEALE ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39427622811895,
+            37.78992622979901
+          ],
+          [
+            -122.3951509317867,
+            37.7892346992467
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 6148201,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "LINDA VISTA SP",
+        "Streetna_1": "GENEVA AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 669.015058728,
+        "STREETNAME": "GENEVA",
+        "TYPE": "AVE",
+        "FROM_ST": "PRAGUE ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43192723586795,
+            37.71276659603604
+          ],
+          [
+            -122.42968666218522,
+            37.71231096540456
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 10307000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "GOULD ST",
+        "Streetna_1": "PAUL AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 314.59837408,
+        "STREETNAME": "PAUL",
+        "TYPE": "AVE",
+        "FROM_ST": "CARR ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39662620107116,
+            37.722626215002144
+          ],
+          [
+            -122.39766813550685,
+            37.72287427695899
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 7553000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "LAKE MERCED BLVD",
+        "Streetna_1": "JOHN MUIR DR",
+        "Innovative": "SEPARATED BIKEWAY",
+        "Barrier": "SAFE-HIT POSTS",
+        "Surface_Tr": null,
+        "Shape_Leng": 3993.54616968,
+        "STREETNAME": "JOHN MUIR",
+        "TYPE": "DR",
+        "FROM_ST": "SKYLINE BLVD"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.49469522883938,
+            37.715924664077264
+          ],
+          [
+            -122.49406231707314,
+            37.71573577792551
+          ],
+          [
+            -122.49296383365872,
+            37.71524077969626
+          ],
+          [
+            -122.49207860925526,
+            37.71448255068829
+          ],
+          [
+            -122.49125409996194,
+            37.71338828310625
+          ],
+          [
+            -122.49056863871608,
+            37.712879919987046
+          ],
+          [
+            -122.48929666938209,
+            37.712064089133904
+          ],
+          [
+            -122.48890385751838,
+            37.71168582542089
+          ],
+          [
+            -122.48780369258495,
+            37.709419831781496
+          ],
+          [
+            -122.48735083227295,
+            37.708919182243534
+          ],
+          [
+            -122.4862614202679,
+            37.708335494660986
+          ],
+          [
+            -122.48572386552337,
+            37.708085729909605
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 3871000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "MONCADA WY",
+        "Streetna_1": "CERRITOS AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 842.248976701,
+        "STREETNAME": "CERRITOS",
+        "TYPE": "AVE",
+        "FROM_ST": "WESTGATE DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.46668138623325,
+            37.727237766688674
+          ],
+          [
+            -122.46674412697851,
+            37.72708366810399
+          ],
+          [
+            -122.46742091669437,
+            37.7266785389429
+          ],
+          [
+            -122.46775769334471,
+            37.72652674748548
+          ],
+          [
+            -122.46818219172748,
+            37.72639025968928
+          ],
+          [
+            -122.46903089578035,
+            37.72628247342507
+          ],
+          [
+            -122.46918552551278,
+            37.72630001159906
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 3872000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "MERCEDES WY",
+        "Streetna_1": "CERRITOS AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 604.973509353,
+        "STREETNAME": "CERRITOS",
+        "TYPE": "AVE",
+        "FROM_ST": "MONCADA WY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.46918552551278,
+            37.72630001159906
+          ],
+          [
+            -122.46985726496308,
+            37.72632066067878
+          ],
+          [
+            -122.47045791569101,
+            37.726492623620096
+          ],
+          [
+            -122.47084387712216,
+            37.72672017751698
+          ],
+          [
+            -122.47113200436912,
+            37.72678773876829
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 6148202,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "BROOKDALE AV",
+        "Streetna_1": "GENEVA AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 1702.29588581,
+        "STREETNAME": "GENEVA",
+        "TYPE": "AVE",
+        "FROM_ST": "LINDA VISTA SP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.42968666218522,
+            37.71231096540456
+          ],
+          [
+            -122.42936130693447,
+            37.71224242787777
+          ],
+          [
+            -122.4288324408492,
+            37.71207085389486
+          ],
+          [
+            -122.42823834531981,
+            37.71182204671646
+          ],
+          [
+            -122.4269817954816,
+            37.711269401709906
+          ],
+          [
+            -122.42644446453329,
+            37.71105777170172
+          ],
+          [
+            -122.42552864335275,
+            37.71073591315284
+          ],
+          [
+            -122.42508157885062,
+            37.7105053688553
+          ],
+          [
+            -122.42455038823847,
+            37.710101860376376
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 10801000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "CRESCENT AV",
+        "Streetna_1": "PUTNAM ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 247.542299992,
+        "STREETNAME": "PUTNAM",
+        "TYPE": "ST",
+        "FROM_ST": "OGDEN AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.41110799281118,
+            37.73574994299215
+          ],
+          [
+            -122.41116580905191,
+            37.7350716559048
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11384000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "HWY 101 OFF-RAMP",
+        "Streetna_1": "SAN BRUNO AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 268.586498013,
+        "STREETNAME": "SAN BRUNO",
+        "TYPE": "AVE",
+        "FROM_ST": "WARE ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40142155547534,
+            37.72236902867456
+          ],
+          [
+            -122.40113002709133,
+            37.721668683697764
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11382000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "OLMSTEAD ST",
+        "Streetna_1": "SAN BRUNO AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 416.711312727,
+        "STREETNAME": "SAN BRUNO",
+        "TYPE": "AVE",
+        "FROM_ST": "PAUL AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40206096699502,
+            37.723919994654715
+          ],
+          [
+            -122.40161257907542,
+            37.72283238519123
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 10310000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "WHEAT ST",
+        "Streetna_1": "PAUL AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 259.2370314,
+        "STREETNAME": "PAUL",
+        "TYPE": "AVE",
+        "FROM_ST": "CRANE ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39921440712172,
+            37.72324239058585
+          ],
+          [
+            -122.40007300133772,
+            37.72344678141522
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 10311000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "BAYSHORE BLVD",
+        "Streetna_1": "PAUL AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 214.897843781,
+        "STREETNAME": "PAUL",
+        "TYPE": "AVE",
+        "FROM_ST": "WHEAT ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40007300133772,
+            37.72344678141522
+          ],
+          [
+            -122.40078474764809,
+            37.723616208775496
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 10308000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "EXETER ST",
+        "Streetna_1": "PAUL AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 205.309574284,
+        "STREETNAME": "PAUL",
+        "TYPE": "AVE",
+        "FROM_ST": "GOULD ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39766813550685,
+            37.72287427695899
+          ],
+          [
+            -122.39834811455103,
+            37.72303615927188
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 10309000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "CRANE ST",
+        "Streetna_1": "PAUL AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 261.562895429,
+        "STREETNAME": "PAUL",
+        "TYPE": "AVE",
+        "FROM_ST": "EXETER ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39834811455103,
+            37.72303615927188
+          ],
+          [
+            -122.39921440712172,
+            37.72324239058585
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 10312000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "SAN BRUNO AV",
+        "Streetna_1": "PAUL AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 385.327111446,
+        "STREETNAME": "PAUL",
+        "TYPE": "AVE",
+        "FROM_ST": "BAYSHORE BLVD"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40078474764809,
+            37.723616208775496
+          ],
+          [
+            -122.40206096699502,
+            37.723919994654715
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 2803000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "AUGUSTA ST",
+        "Streetna_1": "BAY SHORE BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 825.30402867,
+        "STREETNAME": "BAY SHORE",
+        "TYPE": "BLVD",
+        "FROM_ST": "HELENA ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40670383564505,
+            37.73630860401572
+          ],
+          [
+            -122.40661886102285,
+            37.73589687390881
+          ],
+          [
+            -122.40645464684624,
+            37.73551081294387
+          ],
+          [
+            -122.40549457144643,
+            37.73428705075219
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 2804000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "SILVER AV",
+        "Streetna_1": "BAY SHORE BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 544.579368026,
+        "STREETNAME": "BAY SHORE",
+        "TYPE": "BLVD",
+        "FROM_ST": "AUGUSTA ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40549457144643,
+            37.73428705075219
+          ],
+          [
+            -122.40509604306268,
+            37.73371612740156
+          ],
+          [
+            -122.40465709726149,
+            37.73294878167034
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 12715000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "END:SOUTH",
+        "Streetna_1": "TUNNEL AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 442.654906823,
+        "STREETNAME": "TUNNEL",
+        "TYPE": "AVE",
+        "FROM_ST": "VISITACION AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4013297567561,
+            37.709593161465484
+          ],
+          [
+            -122.40133111439467,
+            37.708507438973385
+          ],
+          [
+            -122.4013117215461,
+            37.70837838496573
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 12712000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "BLANKEN AV",
+        "Streetna_1": "TUNNEL AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 398.374446624,
+        "STREETNAME": "TUNNEL",
+        "TYPE": "AVE",
+        "FROM_ST": "BAYSHORE BLVD"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4006580297063,
+            37.7130579709631
+          ],
+          [
+            -122.4005137348302,
+            37.71274187647175
+          ],
+          [
+            -122.40078919373069,
+            37.71201631426451
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 12713000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "LATHROP AV",
+        "Streetna_1": "TUNNEL AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 360.557639504,
+        "STREETNAME": "TUNNEL",
+        "TYPE": "AVE",
+        "FROM_ST": "BLANKEN AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40078919373069,
+            37.71201631426451
+          ],
+          [
+            -122.40106242677557,
+            37.71105017495752
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 9284101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "MIRAMAR AV",
+        "Streetna_1": "MONTEREY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 223.184074983,
+        "STREETNAME": "MONTEREY",
+        "TYPE": "BLVD",
+        "FROM_ST": "PLYMOUTH AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45747423840952,
+            37.730997494940326
+          ],
+          [
+            -122.45821480431755,
+            37.7308250230776
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 9284104,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "SAINT ELMO WY",
+        "Streetna_1": "MONTEREY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 410.485200357,
+        "STREETNAME": "MONTEREY",
+        "TYPE": "BLVD",
+        "FROM_ST": "UNNAMED #7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45925082011964,
+            37.73081028157726
+          ],
+          [
+            -122.45947530034795,
+            37.730786683297076
+          ],
+          [
+            -122.45975241341618,
+            37.73074358692914
+          ],
+          [
+            -122.4600456352535,
+            37.730659250087335
+          ],
+          [
+            -122.46033800417578,
+            37.73054264635683
+          ],
+          [
+            -122.46057333649209,
+            37.73043498499307
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 9284102,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "FAXON AV",
+        "Streetna_1": "MONTEREY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 139.572797883,
+        "STREETNAME": "MONTEREY",
+        "TYPE": "BLVD",
+        "FROM_ST": "MIRAMAR AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45821480431755,
+            37.7308250230776
+          ],
+          [
+            -122.45847053405947,
+            37.730800907308826
+          ],
+          [
+            -122.45869543970959,
+            37.7307934436088
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 9284103,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "UNNAMED #7",
+        "Streetna_1": "MONTEREY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 160.729317277,
+        "STREETNAME": "MONTEREY",
+        "TYPE": "BLVD",
+        "FROM_ST": "FAXON AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45869543970959,
+            37.7307934436088
+          ],
+          [
+            -122.45925082011964,
+            37.73081028157726
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 9287201,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "SAN ALESO AV",
+        "Streetna_1": "MONTEREY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 123.303475156,
+        "STREETNAME": "MONTEREY",
+        "TYPE": "BLVD",
+        "FROM_ST": "SAN JACINTO WY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.46410771330815,
+            37.73205298534206
+          ],
+          [
+            -122.46441981454456,
+            37.732283705744685
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 9285101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "SAN FELIPE AV",
+        "Streetna_1": "MONTEREY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 384.436412241,
+        "STREETNAME": "MONTEREY",
+        "TYPE": "BLVD",
+        "FROM_ST": "SAINT ELMO WY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.46057333649209,
+            37.73043498499307
+          ],
+          [
+            -122.46068682146296,
+            37.73033224939392
+          ],
+          [
+            -122.46091002504627,
+            37.730183012553084
+          ],
+          [
+            -122.46133757562389,
+            37.73003560064815
+          ],
+          [
+            -122.46173659848272,
+            37.73002203110521
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 9283101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "PLYMOUTH AV",
+        "Streetna_1": "MONTEREY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 260.050090647,
+        "STREETNAME": "MONTEREY",
+        "TYPE": "BLVD",
+        "FROM_ST": "COLON AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45660749757448,
+            37.731187733622534
+          ],
+          [
+            -122.45747423840952,
+            37.730997494940326
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 9282101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "COLON AV",
+        "Streetna_1": "MONTEREY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 251.290081613,
+        "STREETNAME": "MONTEREY",
+        "TYPE": "BLVD",
+        "FROM_ST": "VALDEZ AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45576255467479,
+            37.731348802451365
+          ],
+          [
+            -122.45660749757448,
+            37.731187733622534
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 9281101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "VALDEZ AV",
+        "Streetna_1": "MONTEREY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 133.196387017,
+        "STREETNAME": "MONTEREY",
+        "TYPE": "BLVD",
+        "FROM_ST": "HAZELWOOD AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45491587863678,
+            37.731464997285926
+          ],
+          [
+            -122.45536973611864,
+            37.7314027130309
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 9280101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "MONTECITO AV",
+        "Streetna_1": "MONTEREY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 51.938849652,
+        "STREETNAME": "MONTEREY",
+        "TYPE": "BLVD",
+        "FROM_ST": "RIDGEWOOD AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45341134363633,
+            37.73153064667995
+          ],
+          [
+            -122.45359032837017,
+            37.73151884236113
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 9280102,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "HAZELWOOD AV",
+        "Streetna_1": "MONTEREY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 384.257164518,
+        "STREETNAME": "MONTEREY",
+        "TYPE": "BLVD",
+        "FROM_ST": "MONTECITO AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45359032837017,
+            37.73151884236113
+          ],
+          [
+            -122.45466050284429,
+            37.73149488440995
+          ],
+          [
+            -122.45491587863678,
+            37.731464997285926
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 9279101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "RIDGEWOOD AV",
+        "Streetna_1": "MONTEREY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 654.927055994,
+        "STREETNAME": "MONTEREY",
+        "TYPE": "BLVD",
+        "FROM_ST": "GENNESSEE ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45114666661931,
+            37.731536847082644
+          ],
+          [
+            -122.45341134363633,
+            37.73153064667995
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 225101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "DONNER AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 291.846622233,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "CARROLL AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39424349308109,
+            37.72547565032591
+          ],
+          [
+            -122.39458375147684,
+            37.72472107380465
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 225102,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "EGBERT AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 289.97934044,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "DONNER AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39458375147684,
+            37.72472107380465
+          ],
+          [
+            -122.39492615229592,
+            37.72397256379831
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 10306000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "CARR ST",
+        "Streetna_1": "PAUL AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 300.525960119,
+        "STREETNAME": "PAUL",
+        "TYPE": "AVE",
+        "FROM_ST": "3RD ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39562276054885,
+            37.722431604057284
+          ],
+          [
+            -122.39581586619288,
+            37.72243328379987
+          ],
+          [
+            -122.39662620107116,
+            37.722626215002144
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 222101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "ARMSTRONG AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 291.24214135,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "YOSEMITE AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39323278677549,
+            37.72773346839433
+          ],
+          [
+            -122.39357015659334,
+            37.72697983313475
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 10395000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "EVANS AV",
+        "Streetna_1": "PHELPS ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 279.760331491,
+        "STREETNAME": "PHELPS",
+        "TYPE": "ST",
+        "FROM_ST": "DAVISON AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38790040732853,
+            37.74361017652736
+          ],
+          [
+            -122.3884550299506,
+            37.74298061729448
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 209101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "MC KINNON AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 295.143172283,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "LA SALLE AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3898644621706,
+            37.73716953163557
+          ],
+          [
+            -122.39014505087307,
+            37.73639019465449
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 217101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "THORNTON AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 80.4447799764,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "THOMAS AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39207295421036,
+            37.730855182103255
+          ],
+          [
+            -122.39214661939265,
+            37.73064213963712
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 216101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "THOMAS AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 297.932283499,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "SHAFTER AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39179715586499,
+            37.73164354592822
+          ],
+          [
+            -122.39207295421036,
+            37.730855182103255
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 212101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "PALOU AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 296.090388359,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "OAKDALE AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39069377255761,
+            37.73479735905013
+          ],
+          [
+            -122.39096789023814,
+            37.734013872317185
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 210101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "NEWCOMB AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 301.553501652,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "MC KINNON AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39014505087307,
+            37.73639019465449
+          ],
+          [
+            -122.39041626393241,
+            37.735590520757746
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 218101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "UNDERWOOD AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 217.487777129,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "THORNTON AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39214661939265,
+            37.73064213963712
+          ],
+          [
+            -122.39234874786239,
+            37.7300668184135
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 219101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "VAN DYKE AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 297.932063436,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "UNDERWOOD AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39234874786239,
+            37.7300668184135
+          ],
+          [
+            -122.3926245356641,
+            37.72927845397648
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 2477000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "KANSAS ST",
+        "Streetna_1": "CESAR CHAVEZ ST",
+        "Innovative": "SEPARATED BIKEWAY",
+        "Barrier": "SAFE-HIT POSTS",
+        "Surface_Tr": "GREEN BIKE LANE",
+        "Shape_Leng": 1384.87715475,
+        "STREETNAME": "CESAR CHAVEZ",
+        "TYPE": "ST",
+        "FROM_ST": "EVANS AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39728541572707,
+            37.74968462291494
+          ],
+          [
+            -122.40206163442392,
+            37.749396679293
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 8704101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "CASA WY",
+        "Streetna_1": "MARINA BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 742.70055075,
+        "STREETNAME": "MARINA",
+        "TYPE": "BLVD",
+        "FROM_ST": "FILLMORE ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43746129377534,
+            37.806401780810845
+          ],
+          [
+            -122.4399993236374,
+            37.80607719921949
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 12610000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "VALENCIA ST",
+        "Streetna_1": "TIFFANY AVE",
+        "Innovative": "BIKE BOULEVARD",
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 72.4803476295,
+        "STREETNAME": "TIFFANY",
+        "TYPE": "AVE",
+        "FROM_ST": "DUNCAN ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4203576197857,
+            37.74649204550099
+          ],
+          [
+            -122.42013034299382,
+            37.7465760317026
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 787000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "BRYANT ST",
+        "Streetna_1": "17TH ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 562.33382533,
+        "STREETNAME": "17TH",
+        "TYPE": "ST",
+        "FROM_ST": "HAMPSHIRE ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40842398733237,
+            37.76442717189267
+          ],
+          [
+            -122.41036374781832,
+            37.76430998481695
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 788000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "FLORIDA ST",
+        "Streetna_1": "17TH ST",
+        "Innovative": "BUFFERED BIKE LANE",
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 280.168172232,
+        "STREETNAME": "17TH",
+        "TYPE": "ST",
+        "FROM_ST": "BRYANT ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.41036374781832,
+            37.76430998481695
+          ],
+          [
+            -122.41133018059513,
+            37.76425158703014
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 789000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "ALABAMA ST",
+        "Streetna_1": "17TH ST",
+        "Innovative": "BUFFERED BIKE LANE",
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 279.235957469,
+        "STREETNAME": "17TH",
+        "TYPE": "ST",
+        "FROM_ST": "FLORIDA ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.41133018059513,
+            37.76425158703014
+          ],
+          [
+            -122.4122933962302,
+            37.7641933758824
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 786000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "HAMPSHIRE ST",
+        "Streetna_1": "17TH ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 291.129939791,
+        "STREETNAME": "17TH",
+        "TYPE": "ST",
+        "FROM_ST": "POTRERO AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40741973743889,
+            37.764487829517556
+          ],
+          [
+            -122.40842398733237,
+            37.76442717189267
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11132000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "CORBETT AV",
+        "Streetna_1": "ROMAIN ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 537.119727435,
+        "STREETNAME": "ROMAIN",
+        "TYPE": "ST",
+        "FROM_ST": "START:EAST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4413198541081,
+            37.75620180574043
+          ],
+          [
+            -122.44151806468044,
+            37.756145950571906
+          ],
+          [
+            -122.44178320043653,
+            37.75604895010696
+          ],
+          [
+            -122.44240891087189,
+            37.75577442441749
+          ],
+          [
+            -122.44293058412825,
+            37.7554789906623
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 1128000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "WORTH ST",
+        "Streetna_1": "21ST ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 348.11264041,
+        "STREETNAME": "21ST",
+        "TYPE": "ST",
+        "FROM_ST": "DOUGLASS ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43886431196651,
+            37.75543363795594
+          ],
+          [
+            -122.4389738006438,
+            37.75538899606645
+          ],
+          [
+            -122.43964704300394,
+            37.755319768027725
+          ],
+          [
+            -122.44003256486164,
+            37.755228801075994
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 7532000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "CONSEVATORY ACCESS  RD",
+        "Streetna_1": "JOHN F KENNEDY DR",
+        "Innovative": "SEPARATED BIKEWAY",
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 397.917744442,
+        "STREETNAME": "JOHN F KENNEDY",
+        "TYPE": "DR",
+        "FROM_ST": "CONSERVATORY EAST DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45683889132046,
+            37.77099240569112
+          ],
+          [
+            -122.45787233633688,
+            37.77112407841938
+          ],
+          [
+            -122.4581972252445,
+            37.77117014091712
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 7533000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "MIDDLE EAST  DR",
+        "Streetna_1": "JOHN F KENNEDY DR",
+        "Innovative": "SEPARATED BIKEWAY",
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 283.727289472,
+        "STREETNAME": "JOHN F KENNEDY",
+        "TYPE": "DR",
+        "FROM_ST": "CONSERVATORY ACCESS RD"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4581972252445,
+            37.77117014091712
+          ],
+          [
+            -122.4591619204751,
+            37.771314266562555
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 1796000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "36TH AV",
+        "Streetna_1": "36TH AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 450.488239256,
+        "STREETNAME": "36TH",
+        "TYPE": "AVE",
+        "FROM_ST": "SPRECKELS LAKE DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.49569657050493,
+            37.77166582328726
+          ],
+          [
+            -122.495661214038,
+            37.770779066695916
+          ],
+          [
+            -122.49560507697643,
+            37.77064393174693
+          ],
+          [
+            -122.49550202899346,
+            37.77055967966548
+          ],
+          [
+            -122.4954119168612,
+            37.77050461306055
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 1797000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "UNNAMED #134",
+        "Streetna_1": "36TH AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 182.973260666,
+        "STREETNAME": "36TH",
+        "TYPE": "AVE",
+        "FROM_ST": "36TH AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4954119168612,
+            37.77050461306055
+          ],
+          [
+            -122.49491029975309,
+            37.77019807992693
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 12983000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "36TH AV",
+        "Streetna_1": "UNNAMED #134",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 132.286083495,
+        "STREETNAME": "UNNAMED #134",
+        "TYPE": null,
+        "FROM_ST": "36TH AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.49491029975309,
+            37.77019807992693
+          ],
+          [
+            -122.49526346520953,
+            37.76996700418158
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11997000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "UNNAMED #173",
+        "Streetna_1": "MARTIN LUTHER KING JR DR",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 1146.14388998,
+        "STREETNAME": "MARTIN LUTHER KING JR",
+        "TYPE": "DR",
+        "FROM_ST": "JOHN F KENNEDY DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.50411688818694,
+            37.7655258743183
+          ],
+          [
+            -122.50559068540727,
+            37.76547563474273
+          ],
+          [
+            -122.5060052820404,
+            37.765441427931286
+          ],
+          [
+            -122.50642891881665,
+            37.765379915121294
+          ],
+          [
+            -122.5068031679774,
+            37.765299847038285
+          ],
+          [
+            -122.50768585872243,
+            37.76504045213799
+          ],
+          [
+            -122.5079714161082,
+            37.76493753684964
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11995000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "CHAIN OF LAKES ACCESS RD",
+        "Streetna_1": "MARTIN LUTHER KING JR DR",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 753.795420311,
+        "STREETNAME": "MARTIN LUTHER KING JR",
+        "TYPE": "DR",
+        "FROM_ST": "MIDDLE DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.49835415045422,
+            37.765141592055556
+          ],
+          [
+            -122.49861549219224,
+            37.76504476545916
+          ],
+          [
+            -122.49912579219303,
+            37.76487185245694
+          ],
+          [
+            -122.4994416152758,
+            37.76478025897649
+          ],
+          [
+            -122.49955497950756,
+            37.76476190996901
+          ],
+          [
+            -122.49979778124919,
+            37.76474547175904
+          ],
+          [
+            -122.50019924417504,
+            37.764759191624414
+          ],
+          [
+            -122.50035229135575,
+            37.76477302025391
+          ],
+          [
+            -122.50085701612237,
+            37.764845907075404
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11996000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "MCCLAINS BEND",
+        "Streetna_1": "MARTIN LUTHER KING JR DR",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 975.557054674,
+        "STREETNAME": "MARTIN LUTHER KING JR",
+        "TYPE": "DR",
+        "FROM_ST": "CHAIN OF LAKES ACCESS RD"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.50085701612237,
+            37.764845907075404
+          ],
+          [
+            -122.50280737461236,
+            37.765199707651945
+          ],
+          [
+            -122.50285122033932,
+            37.76522184049127
+          ],
+          [
+            -122.50411688818694,
+            37.7655258743183
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 7540000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "TRANSVERSE DR",
+        "Streetna_1": "JOHN F KENNEDY DR",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 1931.5946012,
+        "STREETNAME": "JOHN F KENNEDY",
+        "TYPE": "DR",
+        "FROM_ST": "STOW LAKE DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.47365519140381,
+            37.77115580251496
+          ],
+          [
+            -122.47394092004274,
+            37.77125763085181
+          ],
+          [
+            -122.47494587174312,
+            37.7716239817875
+          ],
+          [
+            -122.47519631357831,
+            37.77168558436239
+          ],
+          [
+            -122.47555310934322,
+            37.77171056976036
+          ],
+          [
+            -122.47601594982206,
+            37.77168732985464
+          ],
+          [
+            -122.47689475692354,
+            37.771529385269595
+          ],
+          [
+            -122.47746686860657,
+            37.77139593150445
+          ],
+          [
+            -122.47792983685034,
+            37.77124455678583
+          ],
+          [
+            -122.4788645555652,
+            37.77085394215929
+          ],
+          [
+            -122.47934653479932,
+            37.77068199377574
+          ],
+          [
+            -122.47989542797188,
+            37.77049587869766
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 3050000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "MARTIN LUTHER KING JR DR",
+        "Streetna_1": "BOWLING GREEN DR",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 1330.11410668,
+        "STREETNAME": "BOWLING GREEN",
+        "TYPE": "DR",
+        "FROM_ST": "MIDDLE EAST DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.46010759244528,
+            37.77039935000171
+          ],
+          [
+            -122.46027287079612,
+            37.77021665825591
+          ],
+          [
+            -122.46031906683277,
+            37.77011356929741
+          ],
+          [
+            -122.46033682470396,
+            37.769943916441825
+          ],
+          [
+            -122.46034096794875,
+            37.769763905092134
+          ],
+          [
+            -122.46029649552318,
+            37.76959528713288
+          ],
+          [
+            -122.46015757701412,
+            37.769441622943525
+          ],
+          [
+            -122.45991590488951,
+            37.76928235276585
+          ],
+          [
+            -122.45949718606546,
+            37.76901297824375
+          ],
+          [
+            -122.45944145691493,
+            37.76890085842506
+          ],
+          [
+            -122.45945330740429,
+            37.768749933142004
+          ],
+          [
+            -122.4595267978228,
+            37.76853517942057
+          ],
+          [
+            -122.45965259287752,
+            37.768302808599294
+          ],
+          [
+            -122.45979092489871,
+            37.76814559334142
+          ],
+          [
+            -122.46026725040993,
+            37.767798533255856
+          ],
+          [
+            -122.46067684177793,
+            37.767448810479806
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 9008000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "JOHN F KENNEDY DR",
+        "Streetna_1": "NANCY PELOSI DR",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 458.654187721,
+        "STREETNAME": "NANCY PELOSI",
+        "TYPE": "DR",
+        "FROM_ST": "BOWLING GREEN DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4591619204751,
+            37.771314266562555
+          ],
+          [
+            -122.45932226130753,
+            37.77093106345312
+          ],
+          [
+            -122.45943781411066,
+            37.77075978525312
+          ],
+          [
+            -122.4595415195846,
+            37.770645156667214
+          ],
+          [
+            -122.45975153495733,
+            37.77051464649939
+          ],
+          [
+            -122.45990080769319,
+            37.770441598702504
+          ],
+          [
+            -122.46010759244528,
+            37.77039935000171
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 7539000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "STOW LAKE DR",
+        "Streetna_1": "JOHN F KENNEDY DR",
+        "Innovative": "SEPARATED BIKEWAY",
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 1848.5156612,
+        "STREETNAME": "JOHN F KENNEDY",
+        "TYPE": "DR",
+        "FROM_ST": "10TH AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.46808616045247,
+            37.77252442734926
+          ],
+          [
+            -122.46839224582857,
+            37.77247674090407
+          ],
+          [
+            -122.46886787685807,
+            37.772383646201305
+          ],
+          [
+            -122.4692107153737,
+            37.7722501912487
+          ],
+          [
+            -122.46947481317511,
+            37.77209095814548
+          ],
+          [
+            -122.47041364765187,
+            37.771436629889756
+          ],
+          [
+            -122.47101343511916,
+            37.771058901480174
+          ],
+          [
+            -122.47163041417865,
+            37.77077764634216
+          ],
+          [
+            -122.47183834839251,
+            37.770708369558825
+          ],
+          [
+            -122.47209679111232,
+            37.77070404610089
+          ],
+          [
+            -122.47240492111553,
+            37.77073372497681
+          ],
+          [
+            -122.47276874562655,
+            37.77083988291625
+          ],
+          [
+            -122.47365519140381,
+            37.77115580251496
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 7538000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "10TH AV",
+        "Streetna_1": "JOHN F KENNEDY DR",
+        "Innovative": "SEPARATED BIKEWAY",
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 442.250811516,
+        "STREETNAME": "JOHN F KENNEDY",
+        "TYPE": "DR",
+        "FROM_ST": "SOUTH TEA GARDEN DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.46655753287268,
+            37.77257674027388
+          ],
+          [
+            -122.46676029034937,
+            37.77256590804431
+          ],
+          [
+            -122.46808616045247,
+            37.77252442734926
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 7537000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "SOUTH TEA GARDEN DR",
+        "Streetna_1": "JOHN F KENNEDY DR",
+        "Innovative": "SEPARATED BIKEWAY",
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 212.247765232,
+        "STREETNAME": "JOHN F KENNEDY",
+        "TYPE": "DR",
+        "FROM_ST": "8TH AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.465824687027,
+            37.77260852305923
+          ],
+          [
+            -122.46591749087969,
+            37.77261093088091
+          ],
+          [
+            -122.46655753287268,
+            37.77257674027388
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 7536000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "8TH AV",
+        "Streetna_1": "JOHN F KENNEDY DR",
+        "Innovative": "SEPARATED BIKEWAY",
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 357.714228793,
+        "STREETNAME": "JOHN F KENNEDY",
+        "TYPE": "DR",
+        "FROM_ST": "UNNAMED #172"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.46461063958957,
+            37.77244032875811
+          ],
+          [
+            -122.46471584885539,
+            37.77246594103792
+          ],
+          [
+            -122.46546084828199,
+            37.77259868153255
+          ],
+          [
+            -122.465824687027,
+            37.77260852305923
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 7535000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "UNNAMED #172",
+        "Streetna_1": "JOHN F KENNEDY DR",
+        "Innovative": "SEPARATED BIKEWAY",
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 779.417997797,
+        "STREETNAME": "JOHN F KENNEDY",
+        "TYPE": "DR",
+        "FROM_ST": "CONSERVATORY WEST DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4620471302665,
+            37.77177648739585
+          ],
+          [
+            -122.46310087583184,
+            37.7720411789679
+          ],
+          [
+            -122.46421774371773,
+            37.772342786250704
+          ],
+          [
+            -122.46461063958957,
+            37.77244032875811
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 7534000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "CONSERVATORY WEST DR",
+        "Streetna_1": "JOHN F KENNEDY DR",
+        "Innovative": "SEPARATED BIKEWAY",
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 850.812605892,
+        "STREETNAME": "JOHN F KENNEDY",
+        "TYPE": "DR",
+        "FROM_ST": "MIDDLE EAST DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4591619204751,
+            37.771314266562555
+          ],
+          [
+            -122.46008560445195,
+            37.77146361119299
+          ],
+          [
+            -122.46123655920542,
+            37.77163464528419
+          ],
+          [
+            -122.4620471302665,
+            37.77177648739585
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 7531000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "CONSERVATORY EAST DR",
+        "Streetna_1": "JOHN F KENNEDY DR",
+        "Innovative": "SEPARATED BIKEWAY",
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 451.096390167,
+        "STREETNAME": "JOHN F KENNEDY",
+        "TYPE": "DR",
+        "FROM_ST": "KEZAR DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4552897463236,
+            37.770929660352486
+          ],
+          [
+            -122.45592508884776,
+            37.77088837832358
+          ],
+          [
+            -122.4565147201864,
+            37.77095124374654
+          ],
+          [
+            -122.45683889132046,
+            37.77099240569112
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 8038000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "29TH AV",
+        "Streetna_1": "LAKE ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 312.861011788,
+        "STREETNAME": "LAKE",
+        "TYPE": "ST",
+        "FROM_ST": "28TH AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.48832481549532,
+            37.78520558348707
+          ],
+          [
+            -122.48848623425485,
+            37.785156451436784
+          ],
+          [
+            -122.4888979900552,
+            37.785114826837116
+          ],
+          [
+            -122.48939150072553,
+            37.78508801282825
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 8039000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "30TH AV",
+        "Streetna_1": "LAKE ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 313.479320358,
+        "STREETNAME": "LAKE",
+        "TYPE": "ST",
+        "FROM_ST": "29TH AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.48939150072553,
+            37.78508801282825
+          ],
+          [
+            -122.48992505980253,
+            37.78508385906753
+          ],
+          [
+            -122.49047449005643,
+            37.78511874479439
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 6105000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "COLLINS ST",
+        "Streetna_1": "GEARY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 428.382689033,
+        "STREETNAME": "GEARY",
+        "TYPE": "BLVD",
+        "FROM_ST": "BAKER ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44582692520048,
+            37.78251174237103
+          ],
+          [
+            -122.44730151302184,
+            37.7823916420558
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 8707201,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "BRODERICK ST",
+        "Streetna_1": "MARINA BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 487.657675961,
+        "STREETNAME": "MARINA",
+        "TYPE": "BLVD",
+        "FROM_ST": "DIVISADERO ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44398351783985,
+            37.80558113856588
+          ],
+          [
+            -122.44565006383586,
+            37.80536846677029
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 198201,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "BURKE AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 396.743250037,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "CARGO WY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38717336118299,
+            37.746157387493945
+          ],
+          [
+            -122.38710539901373,
+            37.74522461109237
+          ],
+          [
+            -122.38712852196687,
+            37.745070440233924
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 2475000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "CONNECTICUT ST",
+        "Streetna_1": "CESAR CHAVEZ ST",
+        "Innovative": "SEPARATED BIKEWAY",
+        "Barrier": "SAFE-HIT POSTS",
+        "Surface_Tr": "GREEN BIKE LANE",
+        "Shape_Leng": 280.000160665,
+        "STREETNAME": "CESAR CHAVEZ",
+        "TYPE": "ST",
+        "FROM_ST": "MISSOURI ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39530786252527,
+            37.74980378584967
+          ],
+          [
+            -122.3962735441402,
+            37.74974559989705
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 2476000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "EVANS AV",
+        "Streetna_1": "CESAR CHAVEZ ST",
+        "Innovative": "SEPARATED BIKEWAY",
+        "Barrier": "SAFE-HIT POSTS",
+        "Surface_Tr": "GREEN BIKE LANE",
+        "Shape_Leng": 293.393431986,
+        "STREETNAME": "CESAR CHAVEZ",
+        "TYPE": "ST",
+        "FROM_ST": "CONNECTICUT ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3962735441402,
+            37.74974559989705
+          ],
+          [
+            -122.39728541572707,
+            37.74968462291494
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 2474000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "MISSOURI ST",
+        "Streetna_1": "CESAR CHAVEZ ST",
+        "Innovative": "SEPARATED BIKEWAY",
+        "Barrier": "SAFE-HIT POSTS",
+        "Surface_Tr": "GREEN BIKE LANE",
+        "Shape_Leng": 570.313662328,
+        "STREETNAME": "CESAR CHAVEZ",
+        "TYPE": "ST",
+        "FROM_ST": "MISSISSIPPI ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39334026583633,
+            37.74991515828454
+          ],
+          [
+            -122.39530786252527,
+            37.74980378584967
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11998000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "SUNSET TREATMENT",
+        "Streetna_1": "MARTIN LUTHER KING JR DR",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 124.890343403,
+        "STREETNAME": "MARTIN LUTHER KING JR",
+        "TYPE": "DR",
+        "FROM_ST": "UNNAMED #173"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.5079714161082,
+            37.76493753684964
+          ],
+          [
+            -122.50830295701874,
+            37.76482045310007
+          ],
+          [
+            -122.5083648398318,
+            37.764795885417385
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11999000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "SUNSET TREATMENT",
+        "Streetna_1": "MARTIN LUTHER KING JR DR",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 460.169882459,
+        "STREETNAME": "MARTIN LUTHER KING JR",
+        "TYPE": "DR",
+        "FROM_ST": "LINCOLN NORTH WY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.5083648398318,
+            37.764795885417385
+          ],
+          [
+            -122.50936002104598,
+            37.764402954204115
+          ],
+          [
+            -122.50943358471196,
+            37.76423103370718
+          ],
+          [
+            -122.50940219159143,
+            37.764032735245124
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 2801102,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "MARENGO ST",
+        "Streetna_1": "BAY SHORE BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 283.761963921,
+        "STREETNAME": "BAY SHORE",
+        "TYPE": "BLVD",
+        "FROM_ST": "WATERLOO ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40700235909405,
+            37.73924589485794
+          ],
+          [
+            -122.40701186681169,
+            37.73909939269841
+          ],
+          [
+            -122.40701484467412,
+            37.73888766674764
+          ],
+          [
+            -122.4069907581103,
+            37.738467226269286
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 2801101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "WATERLOO ST",
+        "Streetna_1": "BAY SHORE BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 115.062266876,
+        "STREETNAME": "BAY SHORE",
+        "TYPE": "BLVD",
+        "FROM_ST": "CORTLAND AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4069785851406,
+            37.739566272337335
+          ],
+          [
+            -122.40700738382195,
+            37.73925109919256
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 2801103,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "INDUSTRIAL ST",
+        "Streetna_1": "BAY SHORE BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 184.023644046,
+        "STREETNAME": "BAY SHORE",
+        "TYPE": "BLVD",
+        "FROM_ST": "MARENGO ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4069907581103,
+            37.738467226269286
+          ],
+          [
+            -122.40691050395715,
+            37.737965866668716
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 2800102,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "CORTLAND AV",
+        "Streetna_1": "BAY SHORE BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 1154.87157462,
+        "STREETNAME": "BAY SHORE",
+        "TYPE": "BLVD",
+        "FROM_ST": "FLOWER ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40563347237051,
+            37.74249239646298
+          ],
+          [
+            -122.40604881779868,
+            37.741949634965735
+          ],
+          [
+            -122.40646842635891,
+            37.741374795153334
+          ],
+          [
+            -122.40678519725375,
+            37.740807300080206
+          ],
+          [
+            -122.40689466896889,
+            37.74027596973818
+          ],
+          [
+            -122.40695580751014,
+            37.73969495312017
+          ],
+          [
+            -122.4069785851406,
+            37.739566272337335
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 200202,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "DAVIDSON AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 210.829972057,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "PHELPS ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38743920019515,
+            37.744086884708935
+          ],
+          [
+            -122.38762945354603,
+            37.74352792845309
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 200201,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "PHELPS ST",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 65.7032919423,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "CUSTER AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38737260728891,
+            37.7442594067449
+          ],
+          [
+            -122.38743920019515,
+            37.744086884708935
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 2478201,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "BAYSHORE BLVD",
+        "Streetna_1": "CESAR CHAVEZ ST",
+        "Innovative": "SEPARATED BIKEWAY",
+        "Barrier": "SAFE-HIT POSTS",
+        "Surface_Tr": "GREEN BIKE LANE",
+        "Shape_Leng": 238.000832011,
+        "STREETNAME": "CESAR CHAVEZ",
+        "TYPE": "ST",
+        "FROM_ST": "KANSAS ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40206163442392,
+            37.749396679293
+          ],
+          [
+            -122.40219027778873,
+            37.74942676373399
+          ],
+          [
+            -122.40272424698401,
+            37.74950530027835
+          ],
+          [
+            -122.40286630931828,
+            37.74947845908185
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 1251000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "UTAH ST",
+        "Streetna_1": "23RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 122.406765267,
+        "STREETNAME": "23RD",
+        "TYPE": "ST",
+        "FROM_ST": "UNNAMED #175"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40503198752049,
+            37.75436272615253
+          ],
+          [
+            -122.40545417189202,
+            37.75433723137431
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 1250000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "UNNAMED #175",
+        "Streetna_1": "23RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 158.775771077,
+        "STREETNAME": "23RD",
+        "TYPE": "ST",
+        "FROM_ST": "SAN BRUNO AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40448436490388,
+            37.754395792634675
+          ],
+          [
+            -122.40503198752049,
+            37.75436272615253
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11993000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "SUNSET BLVD",
+        "Streetna_1": "MARTIN LUTHER KING JR DR",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 1165.03561826,
+        "STREETNAME": "MARTIN LUTHER KING JR",
+        "TYPE": "DR",
+        "FROM_ST": "METSON RD"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.49204944457014,
+            37.765382324528744
+          ],
+          [
+            -122.4922175637756,
+            37.7653891984033
+          ],
+          [
+            -122.49250010320395,
+            37.765407008411465
+          ],
+          [
+            -122.4930290793427,
+            37.76544734288341
+          ],
+          [
+            -122.49409231913816,
+            37.76553202220431
+          ],
+          [
+            -122.49486668858432,
+            37.76555587681595
+          ],
+          [
+            -122.49543798585843,
+            37.7655338876029
+          ],
+          [
+            -122.49606312764605,
+            37.76546142221968
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 12273101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "IRVING ST",
+        "Streetna_1": "SUNSET BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 308.083642549,
+        "STREETNAME": "SUNSET",
+        "TYPE": "BLVD",
+        "FROM_ST": "MARTIN LUTHER KING JR DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.49606312764605,
+            37.76546142221968
+          ],
+          [
+            -122.4960054740711,
+            37.764616557698986
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 12273101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "IRVING ST",
+        "Streetna_1": "SUNSET BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 686.091551579,
+        "STREETNAME": "SUNSET",
+        "TYPE": "BLVD",
+        "FROM_ST": "MARTIN LUTHER KING JR DR"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4960054740711,
+            37.764616557698986
+          ],
+          [
+            -122.49587708579855,
+            37.762735073282826
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11383000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "WARE ST",
+        "Streetna_1": "SAN BRUNO AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 177.532181327,
+        "STREETNAME": "SAN BRUNO",
+        "TYPE": "AVE",
+        "FROM_ST": "OLMSTEAD ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40161257907542,
+            37.72283238519123
+          ],
+          [
+            -122.40142155547534,
+            37.72236902867456
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 206102,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "JERROLD AVE",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 107.027611427,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "NEWHALL ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38931005513129,
+            37.73874192993258
+          ],
+          [
+            -122.38918932830893,
+            37.73901979035911
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 215101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "SHAFTER AV",
+        "Streetna_1": "3RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 297.932063422,
+        "STREETNAME": "3RD",
+        "TYPE": "ST",
+        "FROM_ST": "REVERE AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39152135051178,
+            37.732431908122926
+          ],
+          [
+            -122.39179715586499,
+            37.73164354592822
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 10394000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "DAVIDSON AVE",
+        "Streetna_1": "PHELPS ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 199.750425982,
+        "STREETNAME": "PHELPS",
+        "TYPE": "ST",
+        "FROM_ST": "3RD ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38790040732853,
+            37.74361017652736
+          ],
+          [
+            -122.38750874616859,
+            37.74406207957933
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 9281101,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "VALDEZ AV",
+        "Streetna_1": "MONTEREY BLVD",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 115.283178883,
+        "STREETNAME": "MONTEREY",
+        "TYPE": "BLVD",
+        "FROM_ST": "HAZELWOOD AV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45536973611864,
+            37.7314027130309
+          ],
+          [
+            -122.45576255467479,
+            37.731348802451365
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11130000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "DOUGLASS ST",
+        "Streetna_1": "ROMAIN ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 339.929344136,
+        "STREETNAME": "ROMAIN",
+        "TYPE": "ST",
+        "FROM_ST": "GRAND VIEW AVE"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44013389281903,
+            37.75642268474818
+          ],
+          [
+            -122.43989089820329,
+            37.75642751108636
+          ],
+          [
+            -122.43951649885655,
+            37.75644091980736
+          ],
+          [
+            -122.43914262082168,
+            37.756461562799146
+          ],
+          [
+            -122.43904551944804,
+            37.75646811354742
+          ],
+          [
+            -122.43898981669402,
+            37.75641633992792
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11130000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "21ST ST",
+        "Streetna_1": "DOUGLASS ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 360.92667737,
+        "STREETNAME": "DOUGLASS",
+        "TYPE": "ST",
+        "FROM_ST": "ROMAIN ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43898981669402,
+            37.75641633992792
+          ],
+          [
+            -122.43890599222748,
+            37.75552099645068
+          ],
+          [
+            -122.43886431196651,
+            37.75543363795594
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 6372102,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "MORGAN ALLEY",
+        "Streetna_1": "GRAND VIEW AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 302.899251993,
+        "STREETNAME": "GRAND VIEW",
+        "TYPE": "AVE",
+        "FROM_ST": "21ST ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44040947849552,
+            37.75522875492991
+          ],
+          [
+            -122.44081114185745,
+            37.7546290531671
+          ],
+          [
+            -122.44089731122381,
+            37.754492600877256
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 6373000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "HOFFMAN AVE",
+        "Streetna_1": "GRAND VIEW AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 125.481283477,
+        "STREETNAME": "GRAND VIEW",
+        "TYPE": "AVE",
+        "FROM_ST": "MORGAN ALLEY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44089731122381,
+            37.754492600877256
+          ],
+          [
+            -122.44107583108487,
+            37.754178484004015
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 6937000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "ALVARADO ST",
+        "Streetna_1": "HOFFMAN AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 341.754645994,
+        "STREETNAME": "HOFFMAN",
+        "TYPE": "AVE",
+        "FROM_ST": "GRAND VIEW AVE"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44107583108487,
+            37.754178484004015
+          ],
+          [
+            -122.44093017365475,
+            37.754101508480325
+          ],
+          [
+            -122.44085322744185,
+            37.75330419220434
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 1286000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "DOUGLASS ST",
+        "Streetna_1": "23RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 622.170671518,
+        "STREETNAME": "23RD",
+        "TYPE": "ST",
+        "FROM_ST": "HOFFMAN AVE"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.44077351082119,
+            37.752498262450125
+          ],
+          [
+            -122.43862776110798,
+            37.752628709340314
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 1285000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "EUREKA ST",
+        "Streetna_1": "23RD ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 328.8404398,
+        "STREETNAME": "23RD",
+        "TYPE": "ST",
+        "FROM_ST": "DOUGLASS ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.43862776110798,
+            37.752628709340314
+          ],
+          [
+            -122.437493588038,
+            37.75269700229202
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 0,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "AMADOR",
+        "Streetna_1": "ILLINIOIS ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 557.678092342,
+        "STREETNAME": "ILLINIOIS",
+        "TYPE": "ST",
+        "FROM_ST": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38623579750242,
+            37.747065385699884
+          ],
+          [
+            -122.38604836043625,
+            37.74562145046507
+          ],
+          [
+            -122.38603964823415,
+            37.74554175574421
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 3693203,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "ILLINOIS ST",
+        "Streetna_1": "CARGO WAY",
+        "Innovative": "SEPARATED BIKEWAY",
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 378.840854664,
+        "STREETNAME": "CARGO",
+        "TYPE": "WAY",
+        "FROM_ST": "3RD ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38717421827673,
+            37.746157127736005
+          ],
+          [
+            -122.38609149910766,
+            37.74557118866037
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 5688000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "15TH ST",
+        "Streetna_1": "FOLSOM ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 584.360009684,
+        "STREETNAME": "FOLSOM",
+        "TYPE": "ST",
+        "FROM_ST": "14TH ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.41561378131964,
+            37.76853738658992
+          ],
+          [
+            -122.41546212765887,
+            37.76693705613509
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 5689000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "16TH ST",
+        "Streetna_1": "FOLSOM ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 592.424496999,
+        "STREETNAME": "FOLSOM",
+        "TYPE": "ST",
+        "FROM_ST": "15TH ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.41546212765887,
+            37.76693705613509
+          ],
+          [
+            -122.4153083887173,
+            37.76531463953247
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 5690000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "ENTERPRISE ST",
+        "Streetna_1": "FOLSOM ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 222.500299841,
+        "STREETNAME": "FOLSOM",
+        "TYPE": "ST",
+        "FROM_ST": "16TH ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4153083887173,
+            37.76531463953247
+          ],
+          [
+            -122.41525064898484,
+            37.764705299011325
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 5691000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "17TH ST",
+        "Streetna_1": "FOLSOM ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 368.264921617,
+        "STREETNAME": "FOLSOM",
+        "TYPE": "ST",
+        "FROM_ST": "ENTERPRISE ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.41525064898484,
+            37.764705299011325
+          ],
+          [
+            -122.41515508583039,
+            37.763696766446266
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 5692000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "18TH ST",
+        "Streetna_1": "FOLSOM ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 583.476446264,
+        "STREETNAME": "FOLSOM",
+        "TYPE": "ST",
+        "FROM_ST": "17TH ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.41515508583039,
+            37.763696766446266
+          ],
+          [
+            -122.41499861706713,
+            37.76209916128505
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 5693000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "19TH ST",
+        "Streetna_1": "FOLSOM ST",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 584.456398014,
+        "STREETNAME": "FOLSOM",
+        "TYPE": "ST",
+        "FROM_ST": "18TH ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.41499861706713,
+            37.76209916128505
+          ],
+          [
+            -122.41484189175776,
+            37.76049887231649
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 8282000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "OCEAN AVE",
+        "Streetna_1": "LEE AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 584.646982559,
+        "STREETNAME": "LEE",
+        "TYPE": "AVE",
+        "FROM_ST": "HOLLOWAY AVE"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.45411575309896,
+            37.723457006984134
+          ],
+          [
+            -122.4541065523153,
+            37.721851371096655
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11381000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "PAULA AVE",
+        "Streetna_1": "SAN BRUNO AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 44.2769748343,
+        "STREETNAME": "SAN BRUNO",
+        "TYPE": "AVE",
+        "FROM_ST": "DWIGHT ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40210839113462,
+            37.72403561360782
+          ],
+          [
+            -122.40206096699502,
+            37.723919994654715
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 11384001,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE ROUTE",
+        "TO_ST": "MANSELL ST",
+        "Streetna_1": "SAN BRUNO AVE",
+        "Innovative": null,
+        "Barrier": null,
+        "Surface_Tr": "SHARROW",
+        "Shape_Leng": 51.4989865886,
+        "STREETNAME": "SAN BRUNO",
+        "TYPE": "AVE",
+        "FROM_ST": "HWY 101 OFF-RAMP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40113002709133,
+            37.721668683697764
+          ],
+          [
+            -122.40107412985573,
+            37.721534398904176
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 3693202,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "MENDELL ST",
+        "Streetna_1": "CARGO WAY",
+        "Innovative": "SEPARATED BIKEWAY",
+        "Barrier": "SAFE-HIT POSTS",
+        "Surface_Tr": null,
+        "Shape_Leng": 1056.7769206,
+        "STREETNAME": "CARGO",
+        "TYPE": "WAY",
+        "FROM_ST": "ILLINOIS ST"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38609149910766,
+            37.74557118866037
+          ],
+          [
+            -122.38311822025977,
+            37.743883336616655
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "CNN": 7553000,
+        "DIRECT": "2W",
+        "YEAR_INSTA": 2012,
+        "FACILITY_T": "BIKE LANE",
+        "TO_ST": "LAKE MERCED BLVD",
+        "Streetna_1": "JOHN MUIR DR",
+        "Innovative": "BACK-IN ANGLE PARKING",
+        "Barrier": null,
+        "Surface_Tr": null,
+        "Shape_Leng": 2016.12750275,
+        "STREETNAME": "JOHN MUIR",
+        "TYPE": "DR",
+        "FROM_ST": "SKYLINE BLVD"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.50022095405446,
+            37.71895555875456
+          ],
+          [
+            -122.49985916200087,
+            37.718777636473966
+          ],
+          [
+            -122.4993223234512,
+            37.718003944163996
+          ],
+          [
+            -122.49840086193439,
+            37.71715946422634
+          ],
+          [
+            -122.49740042432954,
+            37.7167319540096
+          ],
+          [
+            -122.49469522883938,
+            37.715924664077264
+          ]
+        ]
+      },
+      "type": "Feature"
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "type": "FeatureCollection"
+}

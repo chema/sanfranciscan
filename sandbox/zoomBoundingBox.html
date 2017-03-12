@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+rect {
+  fill: none;
+  pointer-events: all;
+}
+
+.feature {
+  fill: #ddd;
+  stroke: 0px;
+  cursor: pointer;
+}
+
+.feature.active {
+  fill: orange;
+}
+
+.mesh {
+  fill: none;
+  stroke: red;
+  stroke-width: .7px;
+  stroke-linejoin: round;
+  stroke-dasharray: 1,2;
+}
+
+.district-label {
+  fill: black;
+  font-size: 14px;
+  font-weight: 200;
+  text-anchor: middle;
+}
+
+.bikelanes {
+  fill: none;
+  stroke-width: .5px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+	visibility:visible;
+}
+
+text {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  pointer-events: none;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+<script>
+
+var width = window.innerWidth-20,
+	height = window.innerHeight-20,
+    active;
+
+var projection = d3.geo.mercator()
+    .center([-122.406968,37.776873])
+    .scale(.60*(1 << 21) / 2 / Math.PI)
+    .translate([width / 2, height / 2]);
+
+var path = d3.geo.path()
+    .projection(projection);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+svg.append("rect")
+    .attr("width", width)
+    .attr("height", height)
+    .on("click", reset);
+    
+var g = svg.append("g");
+var SF = g.append("g");
+var network = g.append("g");
+
+var stroke = d3.scale.log()
+    .domain([1,1980,1990,2000,2005,2010,2015])
+    .range(["#A00000","#f2f0f7", "#dadaeb", "#bcbddc", "#9e9ac8", "#756bb1", "#54278f"]);
+
+d3.json("Elect_Supervisor_Dists_Topo.json", function(error, topology) {
+	var districts = topojson.feature(topology, topology.objects.districts);
+
+  SF.selectAll("path")
+			.data(districts.features)
+		.enter().append("path")
+			.attr("d", path)
+			.attr("class", "feature")
+			.on("click", click);
+      
+  SF.append("path")
+      .datum(topojson.mesh(topology, topology.objects.districts, function(a, b) { return a !== b; }))
+      .attr("class", "mesh")
+      .attr("d", path);
+      
+	SF.selectAll(".district-label")
+		.data(topojson.feature(topology, topology.objects.districts).features)
+		.enter().append("text")
+		.attr("class", function(d) { return "district-label " + d.id; })
+		.attr("transform", function(d) { return "translate(" + path.centroid(d) + ")"; })
+		.attr("dy", ".35em")
+		.text(function(d) { return d.properties.supdist; });
+
+});
+
+d3.json("SFMTABikewayNetworkTopo.json", function(error, topology) {
+	var bikelanes = topojson.feature(topology, topology.objects.bikelanes);
+
+	network.selectAll("path")
+			.data(bikelanes.features)
+		.enter().append("path")
+			.attr("d", path)
+			.attr("class", "bikelanes")
+			.style("stroke", function(d) { return stroke(d.properties.YEAR_INSTA) })
+			
+//   network.append("path")
+//       .datum(bikelanes.features)
+//       .attr("class", "mesh")
+//       .attr("d", path);
+      
+});
+	
+function click(d) {
+  if (active === d) return reset();
+  SF.selectAll(".active").classed("active", false);
+  d3.select(this).classed("active", active = d);
+  
+  var b = path.bounds(d);
+  g.transition().duration(1000).attr("transform",
+      "translate(" + projection.translate() + ")"
+      + "scale(" + .90 / Math.max((b[1][0] - b[0][0]) / width, (b[1][1] - b[0][1]) / height) + ")"
+      + "translate(" + -(b[1][0] + b[0][0]) / 2 + "," + -(b[1][1] + b[0][1]) / 2 + ")");
+}
+
+function reset() {
+  SF.selectAll(".active").classed("active", active = false);
+  g.transition().duration(1000).attr("transform", "");
+}
+
+
+
+</script>

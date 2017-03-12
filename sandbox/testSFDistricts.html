@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.district1 { fill: #cdd; }
+.district2 { fill: #dcd; }
+.district3 { fill: #ddc; }
+.district4 { fill: #cdc; }
+.district5 { fill: #ccd; }
+.district6 { fill: #dcc; }
+.district7 { fill: #ddd; }
+.district8 { fill: #edd; }
+.district9 { fill: #ded; }
+.district10 { fill: #dde; }
+.district11 { fill: #ede; }
+
+.STREETNAME.POTRERO {
+	fill: none;
+	stroke: #000;
+	stroke-width: 2px;
+}
+
+.STREETNAME {
+	fill: none;
+	stroke: #bbb;
+	stroke-width: 1px;
+}
+
+path {
+	fill: #ccc;
+	stroke: #fff;
+	stroke-width: 1px;
+	stroke-linejoin: round;
+}
+
+path:hover {
+  fill: #faa;
+}
+
+.district-label {
+  fill: blue;
+  font-size: 13px;
+  font-weight: 400;
+  text-anchor: middle;
+}
+
+text {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  pointer-events: none;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+<script>
+
+ var width = Math.max(960, window.innerWidth-100),
+     height = Math.max(500, window.innerHeight-100);
+
+var projection = d3.geo.mercator()
+    .center([-122.406968,37.756873])
+    .scale((1 << 20) / 2 / Math.PI)
+    .translate([width / 2, height / 2]);
+        
+var path = d3.geo.path().projection(projection);
+
+var svg = d3.select("body").append("svg").attr("width", width).attr("height", height);
+
+d3.json("Elect_Supervisor_Dists_Topo.json", function(error, topology) {
+
+	svg.selectAll("path")
+		.data(topojson.feature(topology, topology.objects.districts).features)
+		.enter().append("path")
+		.attr("class", function(d) { return "district" + d.id; })
+		.attr("d", path);
+      
+	svg.selectAll(".district-label")
+		.data(topojson.feature(topology, topology.objects.districts).features)
+		.enter().append("text")
+		.attr("class", function(d) { return "district-label " + d.id; })
+		.attr("transform", function(d) { return "translate(" + path.centroid(d) + ")"; })
+		.attr("dy", ".35em")
+		.text(function(d) { return d.properties.supdist; });
+
+	});
+      
+d3.json("SFMTABikewayNetworkTopo.json", function(error, topology) {
+	svg.selectAll("path")
+		.data(topojson.feature(topology, topology.objects.bikelanes).features)
+		.enter().append("path")
+		.attr("class", function(d) { return "STREETNAME " + d.properties.STREETNAME; })
+		.attr("d", path);
+	});
+            
+</script>

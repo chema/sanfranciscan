@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+          "Description" : "Polk Street Contraflow, from Market to Grove",
+          "Internal Page": "https://sfbike.org/?polk#contraflow",
+          "Official Project Name": "Polk Street Northbound Separated Bikeway",
+          "Project Status": "Under Construction 2/6/2014",
+          "stroke-width": 5,
+          "stroke": "#FF4F00"
+          },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.41822957992554,
+            37.778448826783546
+          ],
+          [
+            -122.4179184436798,
+            37.776841865160534
+          ],
+          [
+            -122.41784334182738,
+            37.776765544214534
+          ],
+          [
+            -122.41774141788483,
+            37.776693463248776
+          ],
+          [
+            -122.41761803627014,
+            37.77662138221269
+          ],
+          [
+            -122.41750538349152,
+            37.776553541173364
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "Description" : "Polk Street Project - From McAllister to Union",
+          "Internal Page": "https://sfbike.org/?polk",
+          "Official Project Name": "Polk Street Improvement Project",
+          "Project Status": "Environmental Review 2/6/2014",
+          "stroke-width": 5,
+          "stroke": "#228b22"
+          },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.41860508918761,
+            37.78028046603249
+          ],
+          [
+            -122.42233872413635,
+            37.798763914082414
+          ]
+        ]
+      }
+    }
+  ]
+}
