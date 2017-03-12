@@ -32,17 +32,18 @@ rect {
   text-anchor: middle;
 }
 
-.bikelanes {
+.precinct {
   fill: none;
   stroke-width: .5px;
   stroke-linecap: round;
   stroke-linejoin: round;
+  stroke: #A00000;
 	visibility:visible;
 }
 
 text {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 10px;
+  font-size: 9px;
   pointer-events: none;
 }
 
@@ -77,9 +78,9 @@ var g = svg.append("g");
 var SF = g.append("g");
 var network = g.append("g");
 
-var stroke = d3.scale.log()
-    .domain([1,1980,1990,2000,2005,2010,2015])
-    .range(["#A00000","#f2f0f7", "#dadaeb", "#bcbddc", "#9e9ac8", "#756bb1", "#54278f"]);
+// var stroke = d3.scale.log()
+//    .domain([1,1980,1990,2000,2005,2010,2015])
+//    .range(["#A00000","#f2f0f7", "#dadaeb", "#bcbddc", "#9e9ac8", "#756bb1", "#54278f"]);
 
 d3.json("Elect_Supervisor_Dists_Topo.json", function(error, topology) {
 	var districts = topojson.feature(topology, topology.objects.districts);
@@ -101,27 +102,27 @@ d3.json("Elect_Supervisor_Dists_Topo.json", function(error, topology) {
 		.enter().append("text")
 		.attr("class", function(d) { return "district-label " + d.id; })
 		.attr("transform", function(d) { return "translate(" + path.centroid(d) + ")"; })
-		.attr("dy", ".35em")
+		.attr("dy", ".30em")
 		.text(function(d) { return d.properties.supdist; });
 
 });
 
-// d3.json("SFMTABikewayNetworkTopo.json", function(error, topology) {
-//	var bikelanes = topojson.feature(topology, topology.objects.bikelanes);
+d3.json("doe-precincts.json", function(error, topology) {
+var precincts = topojson.feature(topology, topology.objects.precincts);
 
-//	network.selectAll("path")
-//			.data(bikelanes.features)
-//		.enter().append("path")
-//			.attr("d", path)
-//			.attr("class", "bikelanes")
+	network.selectAll("path")
+			.data(precincts.features)
+			.enter().append("path")
+			.attr("d", path)
+			.attr("class", "precincts")
 //			.style("stroke", function(d) { return stroke(d.properties.YEAR_INSTA) })
 			
-//   network.append("path")
-//       .datum(bikelanes.features)
-//       .attr("class", "mesh")
-//       .attr("d", path);
+   network.append("path")
+       .datum(bikelanes.features)
+       .attr("class", "mesh")
+       .attr("d", path);
       
-//});
+});
 	
 function click(d) {
   if (active === d) return reset();
