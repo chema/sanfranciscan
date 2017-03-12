@@ -118,7 +118,7 @@ var precincts = topojson.feature(topology, topology.objects.precincts);
 //			.style("stroke", function(d) { return stroke(d.properties.YEAR_INSTA) })
 			
    network.append("path")
-       .datum(bikelanes.features)
+       .datum(precincts.features)
        .attr("class", "mesh")
        .attr("d", path);
       
