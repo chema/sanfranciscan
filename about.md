@@ -10,6 +10,6 @@ Follow [@elsanfranciscan](https://twitter.com/elsanfranciscan) for 140-character
 
 For a more technical perspective, visit [github/chema](https://github.com/chema).
 
-Public key fingerprint: [DD5E BE97 4DE5 8254 D89E  E663 6DC9 5D8C CDCF 67AE](https://pgp.mit.edu/pks/lookup?op=vindex&fingerprint=on&search=0x6DC95D8CCDCF67AE)
+Public key fingerprint: [0F11 7D50 7E29 F07C EA59 1D79 86B2 EAA6 E2A3 466F](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x86B2EAA6E2A3466F)
 
 Above identities verifiable at [keybase/chema](https://keybase.io/chema).
