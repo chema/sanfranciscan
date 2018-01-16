@@ -15,7 +15,7 @@ title: Soy Xicoténcatl
 	sirva este triunfo de gloria
 	y digna memoria de...
 
-&mdash; *Anónimo, 20 de marzo de 1755, San Francisco del Rincón. Versos escritos en un tarjetón, en el que había dibujada una águila.*
+&mdash; *Anónimo, 20 de marzo de 1755, San Francisco del Rincón, Guanajuato. Versos escritos en un tarjetón, en el que había dibujada una águila.*
 
 
 	I am Xicoténcatl the Strong
@@ -29,4 +29,4 @@ title: Soy Xicoténcatl
 	may this glorious victory
 	and deserving memory of...
 
-&mdash; *Verses written on a card, on which an eagle was drawn. March 20, 1755, San Francisco del Rincón*
+&mdash; *Verses written on a card, on which an eagle was drawn. March 20, 1755, San Francisco del Rincón, Guanajuato*

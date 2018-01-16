@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/chema
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sanfranciscan.org
+  * I am chema (https://keybase.io/chema) on keybase.
+  * I have a public key with fingerprint 0F11 7D50 7E29 F07C EA59  1D79 86B2 EAA6 E2A3 466F
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f05859cc45f629b0f2c323ff87f644c746f077ec4b1f0caa95f2a99687a789270a",
+      "fingerprint": "0f117d507e29f07cea591d7986b2eaa6e2a3466f",
+      "host": "keybase.io",
+      "key_id": "86b2eaa6e2a3466f",
+      "kid": "01013eddad3e02c0f4b8700e2dfd48c80c580dfa08fff2b593a4810f1c66be16fe770a",
+      "uid": "66d8bc4d042a5819628ac52e85612e19",
+      "username": "chema"
+    },
+    "service": {
+      "hostname": "sanfranciscan.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1515055402,
+  "expire_in": 157680000,
+  "prev": "dca939b9e60899a5eda75b0db67d588832f0b5c9398ab73de2b6c856b258d1d7",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFtUltMHFUY3m2ptYsECHblmsooSAGbmdm5LhpD24iQSEFAUoSsZ86cYQfa2e3s
+slybrFqXgthqb7akDy0RdMul8CBItFojKSiJVgpFhNAgCIIU0YraVoIzWN48Lyfn
+/7/vO99/eSdos8FkTPktfvDtsrVR4+C8YCh4cT6zGhMcYiVmrcZK0fqFDojI5baV
+yiJmxXCCxCWc5mgeQoqWGJIXcImEFtIiSRwrMRQFWYqRcJZFkBIICYcA8LREAp5n
+OBawHE+yOMCSMUlWipHqVGXFrctKBMGKNM4iktfIEAGaJ0SW5xiBRAAwiAQWimEk
+jWh3uHSGZk4ALrRLdmgx7WFbt/c/+A3fOGFBoghEC8JJiEuUwLE4jkhREikOcjik
+OVyUAM5JkkQKNG8BFEdotiDDCIhgJMT+57tsXY5hRE6AlIhTJKA5gmdIDkCaRBzN
+ECQieB3oQqoCDiINDe3oIMAOJ2NayCNDpHdVL+NB2gUUSQUKlF0QKLscarHGdqoO
+twM6Dmhpu9vtdFl1urvSqePLkWB7oGQTZEXUOqkxPEh1yQ4FsxIaErplXZqgCRqn
+aQonkzFU4ZRVZJN1BM0yHK4d/R/k0SRFCHjLK7zAIwbneB7QSAQsLeCiwGhj4TjO
+Qkq4QEPewnNAYC0iIgUGatUKJM2J2qQwvbhDigOzWjRVNyjW65KLFeAuUxF22FS3
+yRJgMJoMMebYgCSXcfdoz2f35p/t69hYvy2b9N0zmLaFbEQeMgWv2SuUvrTEl/uY
+vs+PP3ZmKcS+J3PoI3/eWDZ6/OfToYt/T4Z9mZY5J38XMxw11qyiU5OfbrvWulD9
+lu+rjJ70L6g3AoedMzneJH93d/a+s4L4YVn/deOhJfhNleJPHcg8gmbC5YXXdu45
+en9rRkPbxZSorPduJdxvvXejY8Z6YvGHsvj239uDv44P9vX/IQ34diZ5X1VW6pd7
+42Ly8pYi8lsmAs3jjpN7Q69GC2/erXtGOpdTb138/smHA7pU8MtUSWRgZ1HhtXJ6
+tV3onUmYSf1JCam9tRwbkHAi4CUlqJ664Ijfl9Ls8ZFdiZPxxsCm4aF2ZM43n6za
+3Rb2aIwxNc48JJSfKXzk7ujlyMSSU/7EeUN+uFJf2e9rnS75CxW1Xi4PKqq13snu
+Fm3px0xdntaUnpuNWONgWO/+sRzv3PIgDGmYwWNz884WPuGtyb3inc2Vki55doRf
+f1eYNcdlDEfwlbQaai1/oeYq31lfcjuirqKpVGx+Lul8S9uyt7k5cKD90vsTpxdG
+Pp6vafA0WQuOf5J8U6WfTq8aTo6pGbpSH3ee/3Z6teOGd3XvwKx9KGW7b8sHa1nF
+1SMLT23dkVVg+3X09WNzDZsLoqhcMsxh8LUUjrMXYOfYdHSb92ha47mKqTuRysTA
+/pHttT2pC+P+H/+s80ffnuKP5E/+8/zFlZV/AQ==
+=rOk2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chema
+
+==================================================================
