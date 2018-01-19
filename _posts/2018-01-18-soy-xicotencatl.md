@@ -18,13 +18,14 @@ The following verses were written on a card taken from the defeated insurgents. 
 	y pues es mi nobleza tan notoria,
 	sirva este triunfo de gloria
 	y digna memoria de...
-	_I am Xicoténcatl the Strong_
-	_from Tlaxcala general,_
-	_and though bitter my liegemen_
-	_I convinced through reason:_
-	_that reward was achieved_
-	_to accompany Cortés_
-	_with my army;_
-	_and so is my nobility renown,_
-	_may this glorious victory_
-	_and deserving memory of..._
+
+	I am Xicoténcatl the Strong
+	from Tlaxcala general,
+	and though bitter my liegemen
+	I convinced through reason:
+	that reward was achieved
+	to accompany Cortés
+	with my army;
+	and so is my nobility renown,
+	may this glorious victory
+	and deserving memory of...
