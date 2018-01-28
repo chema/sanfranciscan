@@ -12,6 +12,8 @@ Follow [@elsanfranciscan](https://twitter.com/elsanfranciscan) for 140-character
 
 For a more technical perspective, visit [0xacab.org/chema/](https://0xacab.org/chema/) or [github/chema](https://github.com/chema).
 
-Public key fingerprint: [0F11 7D50 7E29 F07C EA59 1D79 86B2 EAA6 E2A3 466F](https://keybase.io/chema/key.asc).
+Public key fingerprint: [0F11 7D50 7E29 F07C EA59 1D79 86B2 EAA6 E2A3 466F](https://keybase.io/chema/key.asc),
+
+Mostly PGP-signed Git mirror repository of this website available at [github.com](https://github.com/chema/sanfranciscan/commits/master).
 
 Above identities verifiable at [keybase/chema](https://keybase.io/chema)
