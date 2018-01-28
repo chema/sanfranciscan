@@ -1,12 +1,12 @@
 <div class="sidebar">
     <div class="sidebar-about">
-	<a href="{{ site.baseurl }}">
+	<a href="{{ site.url }}">
 		<img src="/public/assets/whitelogo.png" alt="The San Franciscan" title="The San Franciscan">
 	</a>
     </div>
   <div class="container sidebar-sticky">
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+      <a class="sidebar-nav-item{% if page.url == site.url %} active{% endif %}" href="{{ site.url }}">Home</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
