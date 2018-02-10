@@ -9,7 +9,7 @@ title: Why Riseup&#8217;s Canary Matters
 <img align="right" src="http://sanfranciscan.org/public/img/riseup-rainbow_medium.jpeg"> After nearly five months, I am calling it: [Riseup's canary](https://riseup.net/en/canary) is truly well and dead. Riseup's services have been compromised and are no longer secure.
 
 This may sound like an extreme claim, until one understands that the canary existed to let us know if Riseup was ever compromised.
-
+<!--more-->
 ### Understanding Warrant Canaries
 
 Whenever state authorities compel an internet service provider (ISP) to turn over user data, limits may also be placed on the target ISP on communicating the existence of said legal commands. Wary of this possibility, some ISPs use 'canary statements' (also called warrant canaries or transparency reports) to indirectly convey their services' integrity.

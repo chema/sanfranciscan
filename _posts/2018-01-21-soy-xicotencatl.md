@@ -8,6 +8,8 @@ The _Disturbance of San Francisco del Rincón_ is considered an important preced
 
 Around March 17, 1755, the Indigenous people of my town rose up and liberated their town from Spanish colonialists. After three days, the Native insurgents were defeated and taken captive by the colonial Spanish forces.
 
+<!--more-->
+
 The following verses (with my translation) were written on a card taken from the defeated insurgents. An eagle was drawn on the card.
 
 	Soy Xicoténcatl el fuerte,

@@ -7,7 +7,7 @@ title: Site Migration Issues and Solutions
 After more than a decade of gathering and sharing my thoughts using a mix of wikis, Wordpress instances and other random solutions, consolidating them into a format that had long-term value, like plain text files, seemed like a great idea. [Jekyll](http://jekyllrb.com/) makes this easy, in large part because the content can then be easily converted to static sites that can be quickly deployed.
 
 Here are some issues I've run into during this migration and the solutions I've found:
-
+<!--more-->
 ### Dates and titles
 
 The built-in filter converts dates to strings that using English month names, e.g. 29 Jan 2016. Given that some of the content on this site is not in English, I modified the code to make use of the more international [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) date format using these [helpful directions](http://alanwsmith.com/jekyll-liquid-date-formatting-examples).

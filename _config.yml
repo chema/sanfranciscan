@@ -10,6 +10,7 @@ plugins:
 
 # Permalinks
 permalink:        pretty
+excerpt_separator:  <!--more-->
 # relative_permalinks: true
 
 # Setup
@@ -18,12 +19,13 @@ tagline:          'Un poquito de todo'
 description:      'Un poquito de todo'
 url:              https://sanfranciscan.org/
 baseurl:          /
+twitter_username: elsanfranciscan
 
 author:
   name:           'Chema Hernández Gil'
   url:            https://twitter.com/elsanfranciscan
 
-paginate:         3
+paginate:         4
 
 # Custom vars
 version:          2.1.0
@@ -33,4 +35,4 @@ version:          2.1.0
 
 # piwik:
 #  base_url: sanfranciscan.org
-#  site_id: 1 
+#  site_id: 1

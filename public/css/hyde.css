@@ -250,3 +250,24 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+ul.social{
+  list-style: none;
+  padding: 0;
+}
+
+ul.social li{
+  width: auto;
+  display: inline-block;
+}
+
+ul.social .sr-only{
+  position: absolute;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0;
+  border: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}

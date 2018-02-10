@@ -8,7 +8,7 @@ Le lundi passé, Jon Stewart, l'animateur de l'émission américaine satirique *
 > Evo, non, il parle son dialecte, parce qu'il es indigèniste.
 
 Le mot clé dans sa réponse était "dialecte".
-
+<!--more-->
 Evo Morales a été élu président en decembre 2005, avec une claire majorité populaire. Il se présente comme le premier président indigène de la Bolivie, et il presque certainement le seul à mettre ses origines *indiens* en premier plan. Le premier président indigène malgré le fait que la majorité des habitantes ne parlent pas l'espagnol comme langue maternelle, c'est-à-dire, sont des indigènes, grossièrement divisées entre celles qui parlent Runa Simi (Quechua) et celles qui parlent Aymara. Cette dernière langue est celle de Morales.
 
 La situation en Bolivie même aujourd'hui avec Morales est comparable à la mexicaine, où les cultures et traditions indigènes sont estimés comme obsolètes et pas compatibles et pertinents avec et dans un société dite moderne, surtout l'usage quotidienne des langues indigènes.

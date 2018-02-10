@@ -13,8 +13,11 @@ title: Home
     </h1>
 
     <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+    {{ post.excerpt }}
 
-    {{ post.content }}
+    {% if post.length != "short" %}
+    <a href="{{ post.url }}"><i>Continue reading &#39;{{ post.title }}&#39;&hellip;</i></a>
+    {% endif %}
   </div>
   {% endfor %}
 </div>

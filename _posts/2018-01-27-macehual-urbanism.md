@@ -13,6 +13,8 @@ CDMX was founded in 1325 as Mēxihco-Tenōchtitlan, part of the [Triple Alliance
 
 <img src="/public/img/cdmxpanorama.jpg" style="width: 100%; height: auto; vertical-align:middle" />
 
+<!--more-->
+
 Mēxihco-Tenōchtitlan was more than just a large city though. It was also a dense city. An Indigenous **urban** city. CDMX back then was more than twice as dense as today's San Francisco. Built in the middle of Lake Texcoco, it covered 1,350 ha (5.2 sq miles), roughly the size of a San Francisco supervisorial district. Today, San Francisco has about 72 people per hectare (18.6 thousand/sq mi). In 1519, Mēxihco-Tenōchtitlan had 157 people per hectare (40.8 thousand/sq mi).
 
 <a href="/public/img/cdmxtable.jpg"><img src="/public/img/cdmxtable.jpg" style="padding:6px 6px 6px 6px;; width:50%; height:auto; float:left;" /></a>And Mēxihco-Tenōchtitlan wasn’t alone either. The entire metropolitan area had a handful of cities as dense as today's San Francisco.
